@@ -1,0 +1,192 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "The radial tree layout for a evolutionary dataset",
+  "width": 2500,
+  "height": 2500,
+  "padding": 5,
+  "autosize": "none",
+  "signals": [
+    {"name": "labels", "value": true, "bind": {"input": "checkbox"}},
+    {
+      "name": "year", "value": 2009,
+      "bind": {"input": "range", "min": 2009, "max": 2024,"step": 1}
+    },
+    {
+      "name": "nodeSize", "value": 500,
+      "bind": {"input": "range", "min": 0, "max": 2000,"step": 100}
+    },
+    {
+      "name": "edgeSize", "value": 50,
+      "bind": {"input": "range", "min": 50, "max": 200, "step": 10}
+    },
+    {
+      "name": "textSize", "value": 12,
+      "bind": {"input": "range", "min": 2, "max": 30, "step": 1}
+    },
+    {
+      "name": "radius",
+      "value": 1200,
+      "bind": {"input": "range", "min": 500, "max": 2000}
+    },
+    {
+      "name": "rotate",
+      "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 360, "step": 1}
+    },
+    {
+      "name": "layout",
+      "value": "tidy"
+    },
+    {
+      "name": "links",
+      "value": "diagonal",
+      "bind": {
+        "input": "select",
+        "options": ["line", "curve", "diagonal", "orthogonal"]
+      }
+    },
+    {"name": "originX", "update": "width / 2"},
+    {"name": "originY", "update": "height / 2"}
+  ],
+  "data": [
+    {
+      "name": "tree",
+      "url": "./processed data/Radial_Tree_data.json",
+      "transform": [
+        {"type": "filter", "expr": "datum.startYear <= year"},
+        {"type": "stratify", "key": "id", "parentKey": "parent"},
+        {
+          "type": "tree",
+          "size": [1, {"signal": "radius"}],
+          "as": ["alpha", "radius", "depth", "children"]
+        },
+        {
+          "type": "formula",
+          "expr": "(rotate + 360 * datum.alpha + 270) % 360",
+          "as": "angle"
+        },
+        {"type": "formula", "expr": "PI * datum.angle / 180", "as": "radians"},
+        {
+          "type": "formula",
+          "expr": "inrange(datum.angle, [90, 270])",
+          "as": "leftside"
+        },
+        {
+          "type": "formula",
+          "expr": "originX + datum.radius * cos(datum.radians)",
+          "as": "x"
+        },
+        {
+          "type": "formula",
+          "expr": "originY + datum.radius * sin(datum.radians)",
+          "as": "y"
+        }
+      ]
+    },
+    {
+      "name": "links",
+      "source": "tree",
+      "transform": [
+        {"type": "filter", "expr": "datum.startYear <= year"},
+        {"type": "treelinks"},
+        {
+          "type": "linkpath",
+          "shape": {"signal": "links"},
+          "orient": "radial",
+          "sourceX": "source.radians",
+          "sourceY": "source.radius",
+          "targetX": "target.radians",
+          "targetY": "target.radius"
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "tree", "field": "group"},
+      "range": {"scheme": "category20c"}
+    }
+  ],
+  "marks": [
+    {
+      "type": "text",
+      "encode": {
+        "enter": {
+          "x": {"value": 1250},
+          "y": {"value": 1200},
+          "fontSize": {"value": 32},
+          "fontWeight": {"value": "bold"},
+          "fill": {"value": "steelblue"}
+        },
+        "update": {
+          "text": {"signal": "year"}
+        }
+      }
+    },
+    {
+      "type": "path",
+      "from": {"data": "links"},
+      "encode": {
+        "enter": {
+          "stroke": {"value": "#fff"}
+        },
+        "update": {
+          "x": {"signal": "originX"},
+          "y": {"signal": "originY"},
+          "path": {"field": "path"},
+          "stroke":{"signal": "year < datum.target.endYear ? '#ccc' : 'orange'"},
+          "strokeDash":{"signal":"year < datum.target.endYear ? [10,0] : [5,10]"},
+          "strokeWidth":{"signal": " edgeSize * datum.target.weight"},
+          "tooltip": {"signal": "datum.source.name + ( ' -> ' + datum.target.name  + ', ' + datum.target.weight + ', ['  + datum.target.startYear + ',' + datum.target.endYear +')')"}
+        },
+        "hover": {
+          "stroke": {"value": "yellow"},
+          "strokeWidth": {"value": 2}
+        }
+      }
+    },
+    {
+      "type": "symbol",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "stroke": {"value": "#fff"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "fill": {"scale": "color", "field": "group"},
+          "stroke": {"signal": " year < datum.endYear ? 'white' : 'orange' "},
+          "fillOpacity":{"signal": " year < datum.endYear ? '1' : '0' "},
+          "size":{"signal": "nodeSize * datum.size"},
+          "tooltip": {"signal": "datum.name + ( ' ['  + datum.startYear + ',' + datum.endYear +')')"}
+        },
+        "hover": {
+          "stroke": {"value": "green"},
+          "strokeWidth": {"value": 2}
+        }
+      }
+    },
+    {
+      "type": "text",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "text": {"field": "name"},
+          "baseline": {"value": "middle"}
+        },
+        "update": {
+          "x": {"field": "x"},
+          "y": {"field": "y"},
+          "dx": {"signal": "(datum.leftside ? -1 : 1) * 15"},
+          "align": {"signal": "datum.leftside ? 'right' : 'left'"},
+          "fontSize": {"signal": "textSize"},
+          "opacity": {"signal": " year < datum.endYear && labels? '1' : '0' "}
+        }
+      }
+    }
+  ],
+  "config": {}
+}

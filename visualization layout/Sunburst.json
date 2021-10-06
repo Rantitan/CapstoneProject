@@ -1,0 +1,70 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "description": "The space-fulling radial layout for a evolutionary dataset",
+  "width": 2500,
+  "height": 2500,
+  "padding": 5,
+  "autosize": "none",
+  "signals": [
+    {
+      "name": "year", "value": 2008,
+      "bind": {"input": "range", "min": 2008, "max": 2018,"step": 1}
+    }
+  ],
+  "data": [
+    {
+      "name": "tree",
+      "url": "./processed data/Radial_Tree_data.json",
+      "transform": [
+        { "type": "filter", "expr": "datum.startYear <= year" },
+        {"type": "stratify", "key": "id", "parentKey": "parent"},
+        {
+          "type": "partition",
+          "field": "size",
+          "sort": {"field": "value"},
+          "size": [{"signal": "2 * PI"}, {"signal": "width / 2"}],
+          "as": ["a0", "r0", "a1", "r1", "depth", "children"]
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "tree", "field": "group"},
+      "range": {"scheme": "category20c"}
+    }
+  ],
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "tree"},
+      "encode": {
+        "enter": {
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"},
+          "fill": {"scale": "color", "field": "group"},
+          "tooltip": {
+            "signal": "datum.name + (datum.size ? ' [' + datum.startYear + ',' + datum.endYear + ')' : '')"
+          }
+        },
+        "update": {
+          "startAngle": {"field": "a0"},
+          "endAngle": {"field": "a1"},
+          "innerRadius": {"field": "r0"},
+          "outerRadius": {"field": "r1"},
+          "stroke": {"value": "white"},
+          "strokeWidth": {"value": 0.5},
+          "zindex": {"value": 0}
+        },
+        "hover": {
+          "stroke": {"value": "red"},
+          "strokeWidth": {"value": 2},
+          "zindex": {"value": 1}
+        }
+      }
+    }
+  ],
+  "config": {}
+}

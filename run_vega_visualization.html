@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@5"></script>
+    <title>Graph</title>
+</head>
+
+<body>
+<div id="vis"></div>
+
+<script>
+    const spec1 = "./visualization layout/General_Tree.json";
+    const spec2 = "./visualization layout/Radial_Tree.json";
+
+    vegaEmbed("#vis", spec2)
+        .then(result => console.log(result))
+        .catch(console.warn);
+</script>
+
+</body>

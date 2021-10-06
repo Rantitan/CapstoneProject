@@ -1,0 +1,1253 @@
+ID,RecordID_N,Label,,,Records,TimeInterval,Extra
+965,13957,SARS CoV [2009],SARS CoV [2009],1,0.612551011,"[2009.0,2024.0)",NULL
+966,13959,viral infection [2010],viral infection [2010],1,0.769774635,"[2010.0,2024.0)",NULL
+967,13962,infectious diseases [2011],infectious diseases [2011],1,0.77849538,"[2011.0,2024.0)",NULL
+968,13963,Central Nervous System [2011],Central Nervous System [2011],1,0.358149851,"[2011.0,2024.0)",NULL
+969,13964,respiratory viruses [2012],respiratory viruses [2012],1,0.478344362,"[2012.0,2024.0)",NULL
+970,13969,IFN alpha [2012],IFN alpha [2012],1,0.226906468,"[2012.0,2016.0)",NULL
+971,13970,developing countries [2012],developing countries [2012],1,0.01213798,"[2012.0,2012.0)",NULL
+972,13974,phylogenetic analysis [2013],phylogenetic analysis [2013],1,0.331715714,"[2013.0,2024.0)",NULL
+973,13975,T cells [2013],T cells [2013],1,0.199418653,"[2013.0,2014.0)",NULL
+974,13977,respiratory symptoms [2013],respiratory symptoms [2013],1,0.739207143,"[2013.0,2024.0)",NULL
+975,13978,MERS CoV [2013],MERS CoV [2013],1,0.715209942,"[2013.0,2024.0)",NULL
+976,13980,viral replication [2013],viral replication [2013],1,0.475784552,"[2013.0,2024.0)",NULL
+977,13981,viral pathogenesis [2013],viral pathogenesis [2013],1,0.177723001,"[2013.0,2024.0)",NULL
+978,13982,global health [2013],global health [2013],1,0.138522165,"[2013.0,2024.0)",NULL
+979,13983,systemic infection [2013],systemic infection [2013],1,0.010084128,"[2013.0,2014.0)",NULL
+980,13985,respiratory infections [2014],respiratory infections [2014],1,0.290021138,"[2014.0,2024.0)",NULL
+981,13991,porcine epidemic diarrhea virus [2014],porcine epidemic diarrhea virus [2014],1,0.270612223,"[2014.0,2024.0)",NULL
+982,13992,epidemiology [2014],epidemiology [2014],1,0.848544178,"[2014.0,2024.0)",NULL
+983,13993,HIV [2014],HIV [2014],1,0.488608137,"[2014.0,2024.0)",NULL
+984,13997,respiratory medicine [2014],respiratory medicine [2014],1,3.61E-04,"[2014.0,2014.0)",NULL
+985,14000,acute respiratory distress syndrome [2014],acute respiratory distress syndrome [2014],1,0.081659578,"[2014.0,2018.0)",NULL
+986,14004,allergic reactions [2014],allergic reactions [2014],1,0.196868375,"[2014.0,2024.0)",NULL
+987,14006,infectious bronchitis virus [2015],infectious bronchitis virus [2015],1,0.278498198,"[2015.0,2024.0)",NULL
+988,14015,human infection [2015],human infection [2015],1,0.12527956,"[2015.0,2017.0)",NULL
+989,14016,cell culture [2015],cell culture [2015],1,0.166799662,"[2015.0,2024.0)",NULL
+990,14017,feline infectious peritonitis [2015],feline infectious peritonitis [2015],1,0.129311966,"[2015.0,2024.0)",NULL
+991,14021,immune response [2015],immune response [2015],1,0.573901846,"[2015.0,2024.0)",NULL
+992,14022,gene expression [2015],gene expression [2015],1,0.35493,"[2015.0,2024.0)",NULL
+993,14024,Ebola virus disease [2015],Ebola virus disease [2015],1,0.120459645,"[2015.0,2017.0)",NULL
+994,14026,case report [2015],case report [2015],1,0.516441227,"[2015.0,2024.0)",NULL
+995,14027,fever [2015],fever [2015],1,0.719830704,"[2015.0,2024.0)",NULL
+996,14028,public health [2015],public health [2015],1,0.643460062,"[2015.0,2024.0)",NULL
+997,14029,broad spectrum [2015],broad spectrum [2015],1,0.363510965,"[2015.0,2024.0)",NULL
+998,14030,host response [2015],host response [2015],1,0.148090688,"[2015.0,2024.0)",NULL
+999,14031,respiratory pathogens [2015],respiratory pathogens [2015],1,0.100270689,"[2015.0,2018.0)",NULL
+1000,14032,human vaccine [2015],human vaccine [2015],1,0.003274712,"[2015.0,2016.0)",NULL
+1001,14038,RNA viruses [2016],RNA viruses [2016],1,0.212633186,"[2016.0,2024.0)",NULL
+1002,14040,viral proteins [2016],viral proteins [2016],1,0.141818351,"[2016.0,2018.0)",NULL
+1003,14043,West Africa [2016],West Africa [2016],1,0.190565579,"[2016.0,2024.0)",NULL
+1004,14049,innate immunity [2016],innate immunity [2016],1,0.152740788,"[2016.0,2018.0)",NULL
+1005,14050,respiratory syncytial virus [2016],respiratory syncytial virus [2016],1,0.30544042,"[2016.0,2024.0)",NULL
+1006,14051,disease control [2016],disease control [2016],1,0.285193687,"[2016.0,2024.0)",NULL
+1007,14057,United States [2016],United States [2016],1,0.762988016,"[2016.0,2024.0)",NULL
+1008,14059,respiratory disease [2016],respiratory disease [2016],1,0.054249561,"[2016.0,2016.0)",NULL
+1009,14060,canine coronavirus [2016],canine coronavirus [2016],1,0.04650075,"[2016.0,2016.0)",NULL
+1010,14064,complete genome sequence [2016],complete genome sequence [2016],1,0.144988551,"[2016.0,2024.0)",NULL
+1011,14066,Molecular Mechanisms [2016],Molecular Mechanisms [2016],1,0.528765667,"[2016.0,2024.0)",NULL
+1012,14067,mammalian cells [2016],mammalian cells [2016],1,0.022200175,"[2016.0,2018.0)",NULL
+1013,14071,canine distemper virus [2017],canine distemper virus [2017],1,0.31432565,"[2017.0,2024.0)",NULL
+1014,14087,Zika virus [2017],Zika virus [2017],1,0.167836676,"[2017.0,2024.0)",NULL
+1015,14088,viral RNA [2017],viral RNA [2017],1,0.235213531,"[2017.0,2024.0)",NULL
+1016,14089,fecal samples [2017],fecal samples [2017],1,0.100661527,"[2017.0,2024.0)",NULL
+1017,14093,retrospective study [2017],retrospective study [2017],1,0.458395101,"[2017.0,2024.0)",NULL
+1018,14097,expression levels [2017],expression levels [2017],1,0.13909343,"[2017.0,2024.0)",NULL
+1019,14101,North America [2017],North America [2017],1,0.064223154,"[2017.0,2017.0)",NULL
+1020,14104,real time PCR [2017],real time PCR [2017],1,0.109365507,"[2017.0,2017.0)",NULL
+1021,14108,clinical signs [2017],clinical signs [2017],1,0.593360241,"[2017.0,2024.0)",NULL
+1022,14112,crystal structure [2017],crystal structure [2017],1,0.136766465,"[2017.0,2024.0)",NULL
+1023,14113,infection prevention [2017],infection prevention [2017],1,0.24489686,"[2017.0,2024.0)",NULL
+1024,14114,Hong Kong [2017],Hong Kong [2017],1,0.263528271,"[2017.0,2024.0)",NULL
+1025,14116,Huh7 cells [2017],Huh7 cells [2017],1,0.407157005,"[2017.0,2024.0)",NULL
+1026,14117,coronavirus spike protein [2017],coronavirus spike protein [2017],1,0.134098797,"[2017.0,2024.0)",NULL
+1027,14118,blood samples [2017],blood samples [2017],1,0.060375196,"[2017.0,2018.0)",NULL
+1028,14119,wastewater [2017],wastewater [2017],1,0.086393295,"[2017.0,2024.0)",NULL
+1029,14120,pandemic risk [2017],pandemic risk [2017],1,0.007967309,"[2017.0,2019.0)",NULL
+1030,14121,natural products [2017],natural products [2017],1,0.007896139,"[2017.0,2017.0)",NULL
+1031,14122,low income countries [2017],low income countries [2017],1,0.248700989,"[2017.0,2024.0)",NULL
+1032,14123,biological properties [2017],biological properties [2017],1,0.407677223,"[2017.0,2024.0)",NULL
+1033,14131,Saudi Arabia [2018],Saudi Arabia [2018],1,0.285565701,"[2018.0,2024.0)",NULL
+1034,14138,Escherichia coli [2018],Escherichia coli [2018],1,0.53645631,"[2018.0,2024.0)",NULL
+1035,14148,Polymerase chain reaction [2018],Polymerase chain reaction [2018],1,0.281034127,"[2018.0,2024.0)",NULL
+1036,14149,RT PCR [2018],RT PCR [2018],1,0.698226056,"[2018.0,2024.0)",NULL
+1037,14150,bovine respiratory syncytial virus [2018],bovine respiratory syncytial virus [2018],1,0.076906973,"[2018.0,2018.0)",NULL
+1038,14153,host cells [2018],host cells [2018],1,0.5678149,"[2018.0,2024.0)",NULL
+1039,14156,inflammatory response [2018],inflammatory response [2018],1,0.402544959,"[2018.0,2024.0)",NULL
+1040,14157,hospital infections [2018],hospital infections [2018],1,0.072577652,"[2018.0,2024.0)",NULL
+1041,14160,human population [2018],human population [2018],1,0.131233991,"[2018.0,2024.0)",NULL
+1042,14166,IC50 values [2018],IC50 values [2018],1,0.032536691,"[2018.0,2018.0)",NULL
+1043,14169,pathogenic avian influenza virus [2018],pathogenic avian influenza virus [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1044,14170,early detection [2018],early detection [2018],1,0.683006355,"[2018.0,2024.0)",NULL
+1045,14173,evolutionary history [2018],evolutionary history [2018],1,0.131037172,"[2018.0,2024.0)",NULL
+1046,14174,animal models [2018],animal models [2018],1,0.24223967,"[2018.0,2024.0)",NULL
+1047,14176,health care workers [2018],health care workers [2018],1,0.094058858,"[2018.0,2024.0)",NULL
+1048,14177,pediatric patients [2018],pediatric patients [2018],1,0.168667442,"[2018.0,2024.0)",NULL
+1049,14179,health policy [2018],health policy [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1050,14180,low sensitivity [2018],low sensitivity [2018],1,0.067282338,"[2018.0,2024.0)",NULL
+1051,14181,medicinal chemistry [2018],medicinal chemistry [2018],1,0.080444406,"[2018.0,2024.0)",NULL
+1052,14182,human bocavirus [2018],human bocavirus [2018],1,0.194209066,"[2018.0,2024.0)",NULL
+1053,14183,ribosomal frameshifting [2018],ribosomal frameshifting [2018],1,0.098697919,"[2018.0,2024.0)",NULL
+1054,14184,post mortem examination [2018],post mortem examination [2018],1,0.054068576,"[2018.0,2024.0)",NULL
+1055,14185,hematologic malignancies [2018],hematologic malignancies [2018],1,0.018370875,"[2018.0,2019.0)",NULL
+1056,14186,biological relevance [2018],biological relevance [2018],1,0.089917261,"[2018.0,2024.0)",NULL
+1057,14187,cross sectional survey [2018],cross sectional survey [2018],1,0.496413775,"[2018.0,2024.0)",NULL
+1058,14189,international travel [2018],international travel [2018],1,0.00823945,"[2018.0,2020.0)",NULL
+1059,14190,experimental data [2018],experimental data [2018],1,0.20538292,"[2018.0,2024.0)",NULL
+1060,14198,climate change [2019],climate change [2019],1,0.202520314,"[2019.0,2024.0)",NULL
+1061,14205,nucleic acid [2019],nucleic acid [2019],1,0.239769099,"[2019.0,2024.0)",NULL
+1062,14210,Northern Italy [2019],Northern Italy [2019],1,0.191181092,"[2019.0,2024.0)",NULL
+1063,14216,infectious agents [2019],infectious agents [2019],1,0.265615971,"[2019.0,2024.0)",NULL
+1064,14218,antiviral activity [2019],antiviral activity [2019],1,0.242095907,"[2019.0,2024.0)",NULL
+1065,14223,Intensive Care Unit [2019],Intensive Care Unit [2019],1,0.45667566,"[2019.0,2024.0)",NULL
+1066,14226,community acquired pneumonia [2019],community acquired pneumonia [2019],1,0.457914523,"[2019.0,2024.0)",NULL
+1067,14227,public health emergency [2019],public health emergency [2019],1,0.63065838,"[2019.0,2024.0)",NULL
+1068,14231,mathematical model [2019],mathematical model [2019],1,0.28871144,"[2019.0,2024.0)",NULL
+1069,14233,South Korea [2019],South Korea [2019],1,0.31722004,"[2019.0,2024.0)",NULL
+1070,14238,traditional Chinese medicine [2019],traditional Chinese medicine [2019],1,0.15200519,"[2019.0,2024.0)",NULL
+1071,14241,mouse model [2019],mouse model [2019],1,0.209741072,"[2019.0,2024.0)",NULL
+1072,14244,site directed mutagenesis [2019],site directed mutagenesis [2019],1,0.002163152,"[2019.0,2019.0)",NULL
+1073,14245,Dengue virus [2019],Dengue virus [2019],1,0.073153372,"[2019.0,2024.0)",NULL
+1074,14246,Emergency Department visits [2019],Emergency Department visits [2019],1,0.014234083,"[2019.0,2019.0)",NULL
+1075,14248,high throughput [2019],high throughput [2019],1,0.299015598,"[2019.0,2024.0)",NULL
+1076,14249,systemic lupus erythematosus [2019],systemic lupus erythematosus [2019],1,0.114856649,"[2019.0,2024.0)",NULL
+1077,14250,protective effect [2019],protective effect [2019],1,0.148747078,"[2019.0,2024.0)",NULL
+1078,14251,HIV Infection [2019],HIV Infection [2019],1,0.159991795,"[2019.0,2024.0)",NULL
+1079,14252,genetic analysis [2019],genetic analysis [2019],1,0.013149479,"[2019.0,2020.0)",NULL
+1080,14253,clinical response [2019],clinical response [2019],1,0.005612844,"[2019.0,2020.0)",NULL
+1081,14254,severe bronchiolitis [2019],severe bronchiolitis [2019],1,3.74E-04,"[2019.0,2019.0)",NULL
+1082,14256,hospital admission [2020 Q1],hospital admission [2020 Q1],1,0.738567109,"[2020.0,2024.0)",NULL
+1083,14257,lockdown [2020 Q1],pregnant woman [2020 Q1],0,0.606047844,"[2020.0,2024.0)",NULL
+1084,14258,Wuhan [2020 Q1],Wuhan [2020 Q1],1,0.730325607,"[2020.0,2024.0)",NULL
+1085,14264,control measures [2020 Q1],control measures [2020 Q1],1,0.196577815,"[2020.0,2024.0)",NULL
+1086,14265,older people [2020 Q1],older people [2020 Q1],1,0.590342454,"[2020.0,2024.0)",NULL
+1087,14266,breast cancer [2020 Q1],breast cancer [2020 Q1],1,0.241348388,"[2020.0,2024.0)",NULL
+1088,14267,clinical characteristics [2020 Q1],clinical characteristics [2020 Q1],1,0.532238162,"[2020.0,2024.0)",NULL
+1089,14273,mortality [2020 Q1],mortality [2020 Q1],1,0.631854352,"[2020.0,2024.0)",NULL
+1090,14275,gastrointestinal symptoms [2020 Q1],gastrointestinal symptoms [2020 Q1],1,0.198961234,"[2020.0,2024.0)",NULL
+1091,14276,general practice [2020 Q1],general practice [2020 Q1],1,0.139092842,"[2020.0,2024.0)",NULL
+1092,14278,infected patients [2020 Q1],infected patients [2020 Q1],1,0.332600375,"[2020.0,2024.0)",NULL
+1093,14279,chronic disease [2020 Q1],chronic disease [2020 Q1],1,0.456398596,"[2020.0,2024.0)",NULL
+1094,14281,Latin America [2020 Q1],Latin America [2020 Q1],1,0.125483225,"[2020.0,2024.0)",NULL
+1095,14282,drug repurposing [2020 Q1],drug repurposing [2020 Q1],1,0.004560795,"[2020.0,2021.0)",NULL
+1096,14283,Southeast Asia [2020 Q1],Southeast Asia [2020 Q1],1,0.141851108,"[2020.0,2024.0)",NULL
+1097,14284,chloroquine hydroxychloroquine [2020 Q2],chloroquine hydroxychloroquine [2020 Q2],1,0.059484486,"[2021.0,2024.0)",NULL
+1098,14286,social isolation [2020 Q2],social isolation [2020 Q2],1,0.297800701,"[2021.0,2024.0)",NULL
+1099,14287,acute respiratory distress [2020 Q2],acute respiratory distress [2020 Q2],1,0.39706019,"[2021.0,2024.0)",NULL
+1100,14288,healthcare services [2020 Q2],healthcare services [2020 Q2],1,0.135727163,"[2021.0,2024.0)",NULL
+1101,14289,physicians [2020 Q2],physicians [2020 Q2],1,0.402435664,"[2021.0,2024.0)",NULL
+1102,14290,food insecurity [2020 Q2],food insecurity [2020 Q2],1,0.133520843,"[2021.0,2024.0)",NULL
+1103,14291,obesity [2020 Q2],obesity [2020 Q2],1,0.293354846,"[2021.0,2024.0)",NULL
+1104,14293,molecular dynamics [2020 Q2],molecular dynamics [2020 Q2],1,0.231722044,"[2021.0,2024.0)",NULL
+1105,14294,surgery [2020 Q2],surgery [2020 Q2],1,0.393073929,"[2021.0,2024.0)",NULL
+1106,14295,lung [2020 Q2],lung [2020 Q2],1,0.51341018,"[2021.0,2024.0)",NULL
+1107,14296,Clinical Practice [2020 Q2],Clinical Practice [2020 Q2],1,0.471655917,"[2021.0,2024.0)",NULL
+1108,14297,organ transplantation [2020 Q2],organ transplantation [2020 Q2],1,0.209651706,"[2021.0,2024.0)",NULL
+1109,14298,social interactions [2020 Q2],social interactions [2020 Q2],1,0.145516122,"[2021.0,2024.0)",NULL
+1110,14299,mental health [2020 Q2],Bangladesh [2020 Q2],0,0.432450047,"[2021.0,2024.0)",NULL
+1111,14300,simulation results [2020 Q2],simulation results [2020 Q2],1,0.068545526,"[2021.0,2024.0)",NULL
+1112,14301,chloroquine [2020 Q2],chloroquine [2020 Q2],1,0.314025719,"[2021.0,2024.0)",NULL
+1113,14302,primary care [2020 Q2],primary care [2020 Q2],1,0.216749966,"[2021.0,2024.0)",NULL
+1114,14304,Intravenous Immunoglobulin [2020 Q2],Intravenous Immunoglobulin [2020 Q2],1,0.065271515,"[2021.0,2024.0)",NULL
+1115,14305,point of care ultrasound [2020 Q2],point of care ultrasound [2020 Q2],1,0.064967161,"[2021.0,2024.0)",NULL
+1116,14306,anosmia [2020 Q2],anosmia [2020 Q2],1,0.236805441,"[2021.0,2024.0)",NULL
+1117,14307,Meta Analysis [2020 Q2],Meta Analysis [2020 Q2],1,0.407410756,"[2021.0,2024.0)",NULL
+1118,14308,myocardial injury [2020 Q2],myocardial injury [2020 Q2],1,0.365964029,"[2021.0,2024.0)",NULL
+1119,14309,South America [2020 Q2],South America [2020 Q2],1,0.099450421,"[2021.0,2024.0)",NULL
+1120,14310,immunosuppressive therapy [2020 Q2],immunosuppressive therapy [2020 Q2],1,0.042362194,"[2021.0,2024.0)",NULL
+1121,14311,patient care [2020 Q2],patient care [2020 Q2],1,0.322723746,"[2021.0,2024.0)",NULL
+1122,14313,drug discovery [2020 Q2],drug discovery [2020 Q2],1,0.091852024,"[2021.0,2024.0)",NULL
+1123,14316,management strategies [2020 Q2],management strategies [2020 Q2],1,0.211000726,"[2021.0,2024.0)",NULL
+1124,14317,severe cases [2020 Q2],severe cases [2020 Q2],1,0.218954608,"[2021.0,2024.0)",NULL
+1125,14318,homelessness [2020 Q2],homelessness [2020 Q2],1,0.076696795,"[2021.0,2024.0)",NULL
+1126,14319,corticosteroids [2020 Q2],corticosteroids [2020 Q2],1,0.116040448,"[2021.0,2024.0)",NULL
+1127,14322,immunity [2020 Q2],immunity [2020 Q2],1,0.335681002,"[2021.0,2024.0)",NULL
+1128,14323,pathogenesis [2020 Q2],pathogenesis [2020 Q2],1,0.327426579,"[2021.0,2024.0)",NULL
+1129,14324,herd immunity [2020 Q2],herd immunity [2020 Q2],1,0.118644632,"[2021.0,2024.0)",NULL
+1130,14325,emergency management [2020 Q2],emergency management [2020 Q2],1,0.061711478,"[2021.0,2024.0)",NULL
+1131,14326,cancer [2020 Q2],cancer [2020 Q2],1,0.473697595,"[2021.0,2024.0)",NULL
+1132,14327,ST segment Elevation Myocardial Infarction [2020 Q2],ST segment Elevation Myocardial Infarction [2020 Q2],1,0.084036214,"[2021.0,2024.0)",NULL
+1133,14328,test sensitivity [2020 Q2],test sensitivity [2020 Q2],1,0.403777533,"[2021.0,2024.0)",NULL
+1134,14329,clinical outcomes [2020 Q2],clinical outcomes [2020 Q2],1,0.323884528,"[2021.0,2024.0)",NULL
+1135,14331,diagnostic tests [2020 Q2],diagnostic tests [2020 Q2],1,0.252670368,"[2021.0,2024.0)",NULL
+1136,14332,orthopaedic surgeons [2020 Q2],orthopaedic surgeons [2020 Q2],1,0.132572159,"[2021.0,2024.0)",NULL
+1137,14333,remdesivir [2020 Q2],remdesivir [2020 Q2],1,0.29876569,"[2021.0,2024.0)",NULL
+1138,14334,Immune System [2020 Q2],Immune System [2020 Q2],1,0.1654607,"[2021.0,2024.0)",NULL
+1139,14336,aerosol [2020 Q2],aerosol [2020 Q2],1,0.143085744,"[2021.0,2024.0)",NULL
+1140,14337,Parkinson disease [2020 Q2],Parkinson disease [2020 Q2],1,0.193360227,"[2021.0,2024.0)",NULL
+1141,14338,nursing education [2020 Q2],nursing education [2020 Q2],1,0.120194552,"[2021.0,2024.0)",NULL
+1142,14339,abortion [2020 Q2],abortion [2020 Q2],1,0.163304814,"[2021.0,2024.0)",NULL
+1143,14341,international collaboration [2020 Q2],international collaboration [2020 Q2],1,0.098760084,"[2021.0,2024.0)",NULL
+1144,14342,risk perception [2020 Q2],risk perception [2020 Q2],1,0.438248171,"[2021.0,2024.0)",NULL
+1145,14343,exercise training [2020 Q2],exercise training [2020 Q2],1,0.340412222,"[2021.0,2024.0)",NULL
+1146,14345,bladder cancer [2020 Q2],bladder cancer [2020 Q2],1,0.031322417,"[2021.0,2024.0)",NULL
+1147,14346,cardiovascular risk [2020 Q2],cardiovascular risk [2020 Q2],1,0.03065807,"[2021.0,2024.0)",NULL
+1148,14348,COVID 19 prevention [2020 Q2],COVID 19 prevention [2020 Q2],1,0.102685416,"[2021.0,2024.0)",NULL
+1149,14349,IgG [2020 Q2],IgG [2020 Q2],1,0.231461409,"[2021.0,2024.0)",NULL
+1150,14350,rheumatic diseases [2020 Q2],rheumatic diseases [2020 Q2],1,0.10370536,"[2021.0,2024.0)",NULL
+1151,14351,ACE2 [2020 Q2],ACE2 [2020 Q2],1,0.462828289,"[2021.0,2024.0)",NULL
+1152,14353,Kawasaki disease [2020 Q2],Kawasaki disease [2020 Q2],1,0.168873893,"[2021.0,2024.0)",NULL
+1153,14354,trauma [2020 Q2],trauma [2020 Q2],1,0.214635598,"[2021.0,2024.0)",NULL
+1154,14355,coronavirus infection [2020 Q2],coronavirus infection [2020 Q2],1,0.218654288,"[2021.0,2024.0)",NULL
+1155,14357,artificial intelligence [2020 Q2],artificial intelligence [2020 Q2],1,0.235121997,"[2021.0,2024.0)",NULL
+1156,14360,regional anesthesia [2020 Q2],regional anesthesia [2020 Q2],1,0.039194301,"[2021.0,2024.0)",NULL
+1157,14362,Guillain-Barre syndrome [2020 Q2],Guillain-Barre syndrome [2020 Q2],1,0.09280457,"[2021.0,2024.0)",NULL
+1158,14363,face masks [2020 Q2],face masks [2020 Q2],1,0.196864122,"[2021.0,2024.0)",NULL
+1159,14364,COPD [2020 Q2],COPD [2020 Q2],1,0.133463605,"[2021.0,2024.0)",NULL
+1160,14366,opioid use disorder [2020 Q2],opioid use disorder [2020 Q2],1,0.05438628,"[2021.0,2024.0)",NULL
+1161,14368,extubation [2020 Q2],extubation [2020 Q2],1,0.099453187,"[2021.0,2024.0)",NULL
+1162,14370,cerebral venous thrombosis [2020 Q2],cerebral venous thrombosis [2020 Q2],1,0.013578929,"[2021.0,2024.0)",NULL
+1163,14371,universal masking [2020 Q2],universal masking [2020 Q2],1,0.040984921,"[2021.0,2024.0)",NULL
+1164,14373,preventive measures [2020 Q1],preventive measures [2020 Q1],1,0.621290417,"[2020.0,2024.0)",NULL
+1165,14374,Social Sciences [2020 Q2],Social Sciences [2020 Q2],1,0.051033019,"[2021.0,2024.0)",NULL
+1166,14377,inequalities [2020 Q2],inequalities [2020 Q2],1,0.087033078,"[2021.0,2024.0)",NULL
+1167,14378,environmental issues [2020 Q2],environmental issues [2020 Q2],1,0.002104982,"[2021.0,2021.0)",NULL
+1168,14381,global mental health [2020 Q2],global mental health [2020 Q2],1,0.028137733,"[2021.0,2024.0)",NULL
+1169,14382,digital health [2020 Q2],digital health [2020 Q2],1,0.072337939,"[2021.0,2024.0)",NULL
+1170,14383,safe practice [2020 Q2],safe practice [2020 Q2],1,0.031773092,"[2021.0,2024.0)",NULL
+1171,14384,mask wearing [2020 Q2],mask wearing [2020 Q2],1,3.98E-04,"[2021.0,2021.0)",NULL
+1172,14385,ageusia [2020 Q2],ageusia [2020 Q2],1,0.150243715,"[2021.0,2024.0)",NULL
+1173,14386,dexamethasone [2020 Q3],dexamethasone [2020 Q3],1,0.100933207,"[2022.0,2024.0)",NULL
+1174,14387,perioperative Care [2020 Q3],perioperative Care [2020 Q3],1,0.132213926,"[2022.0,2024.0)",NULL
+1175,14388,acute kidney injury [2020 Q3],acute kidney injury [2020 Q3],1,0.140177233,"[2022.0,2024.0)",NULL
+1176,14389,nursing homes [2020 Q3],nursing homes [2020 Q3],1,0.13634758,"[2022.0,2024.0)",NULL
+1177,14390,planetary health [2020 Q3],planetary health [2020 Q3],1,0.103599673,"[2022.0,2024.0)",NULL
+1178,14391,nanomaterials [2020 Q3],high risk COVID 19 patients [2020 Q3],0,0.065923741,"[2022.0,2024.0)",NULL
+1179,14392,digital transformation [2020 Q3],digital transformation [2020 Q3],1,0.061532865,"[2022.0,2024.0)",NULL
+1180,14393,seroprevalence [2020 Q3],seroprevalence [2020 Q3],1,0.075506433,"[2022.0,2024.0)",NULL
+1181,14394,tertiary hospital [2020 Q3],agricultural production [2020 Q3],0,0.087646032,"[2022.0,2024.0)",NULL
+1182,14395,Child Health [2020 Q3],Child Health [2020 Q3],1,0.089475034,"[2022.0,2024.0)",NULL
+1183,14396,tourism industry [2020 Q3],tourism industry [2020 Q3],1,0.026451256,"[2022.0,2024.0)",NULL
+1184,14397,post COVID 19 [2020 Q3],post COVID 19 [2020 Q3],1,0.088113937,"[2022.0,2024.0)",NULL
+1185,14398,heart surgery [2020 Q3],heart surgery [2020 Q3],1,0.134749373,"[2022.0,2024.0)",NULL
+1186,14403,Radiology [2020 Q3],Radiology [2020 Q3],1,0.055014273,"[2022.0,2024.0)",NULL
+1187,14404,infection risk [2020 Q3],infection risk [2020 Q3],1,0.057434216,"[2022.0,2024.0)",NULL
+1188,14405,drug development [2020 Q3],information technology [2020 Q3],0,0.091250705,"[2022.0,2024.0)",NULL
+1189,14406,spontaneous pneumothorax [2020 Q3],spontaneous pneumothorax [2020 Q3],1,0.065352521,"[2022.0,2024.0)",NULL
+1190,14407,tocilizumab [2020 Q3],tocilizumab [2020 Q3],1,0.118517022,"[2022.0,2024.0)",NULL
+1191,14408,pulmonary fibrosis [2020 Q3],pulmonary fibrosis [2020 Q3],1,0.045723055,"[2022.0,2024.0)",NULL
+1192,14409,contamination [2020 Q3],contamination [2020 Q3],1,0.118971037,"[2022.0,2024.0)",NULL
+1193,14411,ECMO [2020 Q3],ECMO [2020 Q3],1,0.091461913,"[2022.0,2024.0)",NULL
+1194,14412,Endoscopy [2020 Q3],Endoscopy [2020 Q3],1,0.160103086,"[2022.0,2024.0)",NULL
+1195,14415,tourists [2020 Q3],tourists [2020 Q3],1,0.076381606,"[2022.0,2024.0)",NULL
+1196,14416,human activities [2020 Q3],human activities [2020 Q3],1,0.044159213,"[2022.0,2024.0)",NULL
+1197,14417,sports activities [2020 Q3],sports activities [2020 Q3],1,0.052520193,"[2022.0,2024.0)",NULL
+1198,14418,telepsychiatry [2020 Q3],telepsychiatry [2020 Q3],1,0.145747413,"[2022.0,2024.0)",NULL
+1199,14419,pandemic times [2020 Q3],pandemic times [2020 Q3],1,0.025808557,"[2022.0,2024.0)",NULL
+1200,14421,serological tests [2020 Q3],serological tests [2020 Q3],1,0.091158666,"[2022.0,2024.0)",NULL
+1201,14422,immunomodulators [2020 Q3],immunomodulators [2020 Q3],1,0.057922516,"[2022.0,2024.0)",NULL
+1202,14423,cohort study [2020 Q3],cohort study [2020 Q3],1,0.140834917,"[2022.0,2024.0)",NULL
+1203,14424,liver involvement [2020 Q3],liver involvement [2020 Q3],1,0.041703517,"[2022.0,2024.0)",NULL
+1204,14425,respirators [2020 Q3],respirators [2020 Q3],1,0.083185266,"[2022.0,2024.0)",NULL
+1205,14426,complications [2020 Q3],complications [2020 Q3],1,0.248002432,"[2022.0,2024.0)",NULL
+1206,14427,lopinavir [2020 Q3],lopinavir [2020 Q3],1,0.107958742,"[2022.0,2024.0)",NULL
+1207,14431,collateral damage [2020 Q3],collateral damage [2020 Q3],1,0.046052964,"[2022.0,2024.0)",NULL
+1208,14434,risk management [2020 Q3],risk management [2020 Q3],1,0.059856657,"[2022.0,2024.0)",NULL
+1209,14436,Takotsubo cardiomyopathy [2020 Q3],Takotsubo cardiomyopathy [2020 Q3],1,0.070931346,"[2022.0,2024.0)",NULL
+1210,14437,adult patients [2020 Q3],adult patients [2020 Q3],1,0.078226768,"[2022.0,2024.0)",NULL
+1211,14438,adolescents [2020 Q3],adolescents [2020 Q3],1,0.217773496,"[2022.0,2024.0)",NULL
+1212,14440,Emotional impact [2020 Q3],Emotional impact [2020 Q3],1,0.039835249,"[2022.0,2024.0)",NULL
+1213,14443,obsessive compulsive disorder [2020 Q3],obsessive compulsive disorder [2020 Q3],1,0.029507277,"[2022.0,2024.0)",NULL
+1214,14444,food supplies [2020 Q3],food supplies [2020 Q3],1,0.03564275,"[2022.0,2024.0)",NULL
+1215,14445,systemic racism [2020 Q3],systemic racism [2020 Q3],1,0.014437235,"[2022.0,2024.0)",NULL
+1216,14446,population health [2020 Q3],population health [2020 Q3],1,0.079511785,"[2022.0,2024.0)",NULL
+1217,14447,animal welfare [2020 Q3],animal welfare [2020 Q3],1,0.113077263,"[2022.0,2024.0)",NULL
+1218,14448,acute ischemic stroke [2020 Q3],acute ischemic stroke [2020 Q3],1,0.069925598,"[2022.0,2024.0)",NULL
+1219,14449,ruxolitinib [2020 Q3],ruxolitinib [2020 Q3],1,0.07660352,"[2022.0,2024.0)",NULL
+1220,14453,fatal cases [2020 Q3],fatal cases [2020 Q3],1,0.04017574,"[2022.0,2024.0)",NULL
+1221,14454,school closures [2020 Q3],school closures [2020 Q3],1,0.078319385,"[2022.0,2024.0)",NULL
+1222,14455,pulmonary rehabilitation [2020 Q3],pulmonary rehabilitation [2020 Q3],1,0.019509274,"[2022.0,2024.0)",NULL
+1223,14456,mental health needs [2020 Q3],mental health needs [2020 Q3],1,0.024502956,"[2022.0,2024.0)",NULL
+1224,14457,laparoscopic surgery [2020 Q3],laparoscopic surgery [2020 Q3],1,0.015103446,"[2022.0,2024.0)",NULL
+1225,14458,saliva samples [2020 Q3],saliva samples [2020 Q3],1,0.052654063,"[2022.0,2024.0)",NULL
+1226,14459,hyperinflammation [2020 Q3],hyperinflammation [2020 Q3],1,0.056379766,"[2022.0,2024.0)",NULL
+1227,14460,telerehabilitation [2020 Q3],telerehabilitation [2020 Q3],1,0.04307623,"[2022.0,2024.0)",NULL
+1228,14463,work life balance [2020 Q3],work life balance [2020 Q3],1,0.030366713,"[2022.0,2024.0)",NULL
+1229,14464,virtual interviews [2020 Q3],virtual interviews [2020 Q3],1,0.001716552,"[2022.0,2022.0)",NULL
+1230,14465,Psychiatric Hospitals [2020 Q3],Psychiatric Hospitals [2020 Q3],1,0.029080457,"[2022.0,2024.0)",NULL
+1231,14466,myasthenia Gravis [2020 Q3],myasthenia Gravis [2020 Q3],1,0.017458356,"[2022.0,2024.0)",NULL
+1232,14467,ivermectin [2020 Q3],ivermectin [2020 Q3],1,0.047018399,"[2022.0,2024.0)",NULL
+1233,14468,invasive surgery [2020 Q3],invasive surgery [2020 Q3],1,0.016233208,"[2022.0,2024.0)",NULL
+1234,14472,indoor environments [2020 Q4],indoor environments [2020 Q4],1,0.020205194,"[2023.0,2024.0)",NULL
+1235,14473,qualitative study [2020 Q4],qualitative study [2020 Q4],1,0.091235271,"[2023.0,2024.0)",NULL
+1236,14474,localization [2020 Q4],localization [2020 Q4],1,0.055702733,"[2023.0,2024.0)",NULL
+1237,14475,manufacturing [2020 Q4],manufacturing [2020 Q4],1,0.076981371,"[2023.0,2024.0)",NULL
+1238,14476,secondary outcomes [2020 Q4],secondary outcomes [2020 Q4],1,0.103327282,"[2023.0,2024.0)",NULL
+1239,14477,psychometric properties [2020 Q4],psychometric properties [2020 Q4],1,0.04829723,"[2023.0,2024.0)",NULL
+1240,14479,convalescent plasma transfusion [2020 Q4],convalescent plasma transfusion [2020 Q4],1,0.043668086,"[2023.0,2024.0)",NULL
+1241,14480,teledermatology [2020 Q4],teledermatology [2020 Q4],1,0.050724342,"[2023.0,2024.0)",NULL
+1242,14487,policy implications [2020 Q4],policy implications [2020 Q4],1,0.048625446,"[2023.0,2024.0)",NULL
+1243,14488,relative humidity [2020 Q4],relative humidity [2020 Q4],1,0.049417734,"[2023.0,2024.0)",NULL
+1244,14491,glucocorticoids [2020 Q4],glucocorticoids [2020 Q4],1,0.054597339,"[2023.0,2024.0)",NULL
+1245,14493,pulse Oximetry [2020 Q4],pulse Oximetry [2020 Q4],1,0.05485869,"[2023.0,2024.0)",NULL
+1246,14494,retrospective observational study [2020 Q4],retrospective observational study [2020 Q4],1,0.046291577,"[2023.0,2024.0)",NULL
+1247,14495,human volunteers [2020 Q4],human volunteers [2020 Q4],1,0.069993924,"[2023.0,2024.0)",NULL
+1248,14496,female gender [2020 Q4],female gender [2020 Q4],1,0.034997856,"[2023.0,2024.0)",NULL
+1249,14497,protective measures [2020 Q4],protective measures [2020 Q4],1,0.051548753,"[2023.0,2024.0)",NULL
+1250,14498,sequela [2020 Q4],sequela [2020 Q4],1,0.046729146,"[2023.0,2024.0)",NULL
+1251,14499,misinformation [2020 Q4],misinformation [2020 Q4],1,0.069459251,"[2023.0,2024.0)",NULL
+1252,14500,autoantibodies [2020 Q4],autoantibodies [2020 Q4],1,0.058327714,"[2023.0,2024.0)",NULL
+1253,14501,transparency [2020 Q4],transparency [2020 Q4],1,0.068361466,"[2023.0,2024.0)",NULL
+1254,14502,clinical examination [2020 Q4],clinical examination [2020 Q4],1,0.042734772,"[2023.0,2024.0)",NULL
+1255,14503,thematic analysis [2020 Q4],thematic analysis [2020 Q4],1,0.066404893,"[2023.0,2024.0)",NULL
+1256,14505,atrial fibrillation [2020 Q4],atrial fibrillation [2020 Q4],1,0.048615319,"[2023.0,2024.0)",NULL
+1257,14506,microorganisms [2020 Q4],microorganisms [2020 Q4],1,0.03266045,"[2023.0,2024.0)",NULL
+1258,14507,N protein [2020 Q4],N protein [2020 Q4],1,0.065020731,"[2023.0,2024.0)",NULL
+1259,14508,oral manifestations [2020 Q4],surveillance data [2020 Q4],0,0.031168058,"[2023.0,2024.0)",NULL
+1260,14510,diagnostic tools [2020 Q4],diagnostic tools [2020 Q4],1,0.011461492,"[2023.0,2024.0)",NULL
+1261,14511,medical education [2020 Q4],medical education [2020 Q4],1,0.050059503,"[2023.0,2024.0)",NULL
+1262,14512,Longitudinal Study [2020 Q4],Longitudinal Study [2020 Q4],1,0.052884453,"[2023.0,2024.0)",NULL
+1263,14513,asymptomatic infection [2020 Q4],asymptomatic infection [2020 Q4],1,0.043857607,"[2023.0,2024.0)",NULL
+1264,14514,audio Interview [2020 Q4],audio Interview [2020 Q4],1,9.33E-04,"[2023.0,2024.0)",NULL
+1265,14516,high sensitivity [2020 Q4],high sensitivity [2020 Q4],1,0.032851889,"[2023.0,2024.0)",NULL
+1266,14518,viral load [2020 Q4],viral load [2020 Q4],1,0.042555192,"[2023.0,2024.0)",NULL
+1267,14521,cost effective [2020 Q4],cost effective [2020 Q4],1,0.060896185,"[2023.0,2024.0)",NULL
+1268,14524,online environment [2020 Q4],online environment [2020 Q4],1,0.024425493,"[2023.0,2024.0)",NULL
+1269,14528,Ophthalmology [2020 Q4],Ophthalmology [2020 Q4],1,0.019390839,"[2023.0,2024.0)",NULL
+1270,14530,pancytopenia [2020 Q4],pancytopenia [2020 Q4],1,0.007417655,"[2023.0,2024.0)",NULL
+1271,14531,Indian states [2020 Q4],Indian states [2020 Q4],1,0.00799878,"[2023.0,2024.0)",NULL
+1272,14532,colchicine [2020 Q4],colchicine [2020 Q4],1,0.011556255,"[2023.0,2024.0)",NULL
+1273,14535,percutaneous tracheostomy [2020 Q4],percutaneous tracheostomy [2020 Q4],1,0.011198292,"[2023.0,2024.0)",NULL
+1274,14540,cardiac complications [2020 Q4],cardiac complications [2020 Q4],1,0.00876632,"[2023.0,2024.0)",NULL
+1275,14542,environmental surfaces [2020 Q4],environmental surfaces [2020 Q4],1,0.015934619,"[2023.0,2024.0)",NULL
+1276,14545,empirical results [2021],empirical results [2021],1,0.046222841,"[2024.0,2024.0)",NULL
+1277,14549,digital platforms [2021],laws [2021],0,0.028745918,"[2024.0,2024.0)",NULL
+965,13957,SARS CoV [2009],SARS CoV [2009],1,0.612551011,"[2009.0,2024.0)",NULL
+966,13959,viral infection [2010],viral infection [2010],1,0.769774635,"[2010.0,2024.0)",NULL
+967,13962,infectious diseases [2011],infectious diseases [2011],1,0.77849538,"[2011.0,2024.0)",NULL
+968,13963,Central Nervous System [2011],Central Nervous System [2011],1,0.358149851,"[2011.0,2024.0)",NULL
+969,13964,respiratory viruses [2012],respiratory viruses [2012],1,0.478344362,"[2012.0,2024.0)",NULL
+970,13969,IFN alpha [2012],IFN alpha [2012],1,0.226906468,"[2012.0,2016.0)",NULL
+971,13970,developing countries [2012],developing countries [2012],1,0.01213798,"[2012.0,2012.0)",NULL
+972,13974,phylogenetic analysis [2013],phylogenetic analysis [2013],1,0.331715714,"[2013.0,2024.0)",NULL
+973,13975,T cells [2013],T cells [2013],1,0.199418653,"[2013.0,2014.0)",NULL
+974,13977,respiratory symptoms [2013],respiratory symptoms [2013],1,0.739207143,"[2013.0,2024.0)",NULL
+975,13978,MERS CoV [2013],MERS CoV [2013],1,0.715209942,"[2013.0,2024.0)",NULL
+976,13980,viral replication [2013],viral replication [2013],1,0.475784552,"[2013.0,2024.0)",NULL
+977,13981,viral pathogenesis [2013],viral pathogenesis [2013],1,0.177723001,"[2013.0,2024.0)",NULL
+978,13982,global health [2013],global health [2013],1,0.138522165,"[2013.0,2024.0)",NULL
+979,13983,systemic infection [2013],systemic infection [2013],1,0.010084128,"[2013.0,2014.0)",NULL
+980,13985,respiratory infections [2014],respiratory infections [2014],1,0.290021138,"[2014.0,2024.0)",NULL
+981,13991,porcine epidemic diarrhea virus [2014],porcine epidemic diarrhea virus [2014],1,0.270612223,"[2014.0,2024.0)",NULL
+982,13992,epidemiology [2014],epidemiology [2014],1,0.848544178,"[2014.0,2024.0)",NULL
+983,13993,HIV [2014],HIV [2014],1,0.488608137,"[2014.0,2024.0)",NULL
+984,13997,respiratory medicine [2014],respiratory medicine [2014],1,3.61E-04,"[2014.0,2014.0)",NULL
+985,14000,acute respiratory distress syndrome [2014],acute respiratory distress syndrome [2014],1,0.081659578,"[2014.0,2018.0)",NULL
+986,14004,allergic reactions [2014],allergic reactions [2014],1,0.196868375,"[2014.0,2024.0)",NULL
+987,14006,infectious bronchitis virus [2015],infectious bronchitis virus [2015],1,0.278498198,"[2015.0,2024.0)",NULL
+988,14015,human infection [2015],human infection [2015],1,0.12527956,"[2015.0,2017.0)",NULL
+989,14016,cell culture [2015],cell culture [2015],1,0.166799662,"[2015.0,2024.0)",NULL
+990,14017,feline infectious peritonitis [2015],feline infectious peritonitis [2015],1,0.129311966,"[2015.0,2024.0)",NULL
+991,14021,immune response [2015],immune response [2015],1,0.573901846,"[2015.0,2024.0)",NULL
+992,14022,gene expression [2015],gene expression [2015],1,0.35493,"[2015.0,2024.0)",NULL
+993,14024,Ebola virus disease [2015],Ebola virus disease [2015],1,0.120459645,"[2015.0,2017.0)",NULL
+994,14026,case report [2015],case report [2015],1,0.516441227,"[2015.0,2024.0)",NULL
+995,14027,fever [2015],fever [2015],1,0.719830704,"[2015.0,2024.0)",NULL
+996,14028,public health [2015],public health [2015],1,0.643460062,"[2015.0,2024.0)",NULL
+997,14029,broad spectrum [2015],broad spectrum [2015],1,0.363510965,"[2015.0,2024.0)",NULL
+998,14030,host response [2015],host response [2015],1,0.148090688,"[2015.0,2024.0)",NULL
+999,14031,respiratory pathogens [2015],respiratory pathogens [2015],1,0.100270689,"[2015.0,2018.0)",NULL
+1000,14032,human vaccine [2015],human vaccine [2015],1,0.003274712,"[2015.0,2016.0)",NULL
+1001,14038,RNA viruses [2016],RNA viruses [2016],1,0.212633186,"[2016.0,2024.0)",NULL
+1002,14040,viral proteins [2016],viral proteins [2016],1,0.141818351,"[2016.0,2018.0)",NULL
+1003,14043,West Africa [2016],West Africa [2016],1,0.190565579,"[2016.0,2024.0)",NULL
+1004,14049,innate immunity [2016],innate immunity [2016],1,0.152740788,"[2016.0,2018.0)",NULL
+1005,14050,respiratory syncytial virus [2016],respiratory syncytial virus [2016],1,0.30544042,"[2016.0,2024.0)",NULL
+1006,14051,disease control [2016],disease control [2016],1,0.285193687,"[2016.0,2024.0)",NULL
+1007,14057,United States [2016],United States [2016],1,0.762988016,"[2016.0,2024.0)",NULL
+1008,14059,respiratory disease [2016],respiratory disease [2016],1,0.054249561,"[2016.0,2016.0)",NULL
+1009,14060,canine coronavirus [2016],canine coronavirus [2016],1,0.04650075,"[2016.0,2016.0)",NULL
+1010,14064,complete genome sequence [2016],complete genome sequence [2016],1,0.144988551,"[2016.0,2024.0)",NULL
+1011,14066,Molecular Mechanisms [2016],Molecular Mechanisms [2016],1,0.528765667,"[2016.0,2024.0)",NULL
+1012,14067,mammalian cells [2016],mammalian cells [2016],1,0.022200175,"[2016.0,2018.0)",NULL
+1013,14071,canine distemper virus [2017],canine distemper virus [2017],1,0.31432565,"[2017.0,2024.0)",NULL
+1014,14087,Zika virus [2017],Zika virus [2017],1,0.167836676,"[2017.0,2024.0)",NULL
+1015,14088,viral RNA [2017],viral RNA [2017],1,0.235213531,"[2017.0,2024.0)",NULL
+1016,14089,fecal samples [2017],fecal samples [2017],1,0.100661527,"[2017.0,2024.0)",NULL
+1017,14093,retrospective study [2017],retrospective study [2017],1,0.458395101,"[2017.0,2024.0)",NULL
+1018,14097,expression levels [2017],expression levels [2017],1,0.13909343,"[2017.0,2024.0)",NULL
+1019,14101,North America [2017],North America [2017],1,0.064223154,"[2017.0,2017.0)",NULL
+1020,14104,real time PCR [2017],real time PCR [2017],1,0.109365507,"[2017.0,2017.0)",NULL
+1021,14108,clinical signs [2017],clinical signs [2017],1,0.593360241,"[2017.0,2024.0)",NULL
+1022,14112,crystal structure [2017],crystal structure [2017],1,0.136766465,"[2017.0,2024.0)",NULL
+1023,14113,infection prevention [2017],infection prevention [2017],1,0.24489686,"[2017.0,2024.0)",NULL
+1024,14114,Hong Kong [2017],Hong Kong [2017],1,0.263528271,"[2017.0,2024.0)",NULL
+1025,14116,Huh7 cells [2017],Huh7 cells [2017],1,0.407157005,"[2017.0,2024.0)",NULL
+1026,14117,coronavirus spike protein [2017],coronavirus spike protein [2017],1,0.134098797,"[2017.0,2024.0)",NULL
+1027,14118,blood samples [2017],blood samples [2017],1,0.060375196,"[2017.0,2018.0)",NULL
+1028,14119,wastewater [2017],wastewater [2017],1,0.086393295,"[2017.0,2024.0)",NULL
+1029,14120,pandemic risk [2017],pandemic risk [2017],1,0.007967309,"[2017.0,2019.0)",NULL
+1030,14121,natural products [2017],natural products [2017],1,0.007896139,"[2017.0,2017.0)",NULL
+1031,14122,low income countries [2017],low income countries [2017],1,0.248700989,"[2017.0,2024.0)",NULL
+1032,14123,biological properties [2017],biological properties [2017],1,0.407677223,"[2017.0,2024.0)",NULL
+1033,14131,Saudi Arabia [2018],Saudi Arabia [2018],1,0.285565701,"[2018.0,2024.0)",NULL
+1034,14138,Escherichia coli [2018],Escherichia coli [2018],1,0.53645631,"[2018.0,2024.0)",NULL
+1035,14148,Polymerase chain reaction [2018],Polymerase chain reaction [2018],1,0.281034127,"[2018.0,2024.0)",NULL
+1036,14149,RT PCR [2018],RT PCR [2018],1,0.698226056,"[2018.0,2024.0)",NULL
+1037,14150,bovine respiratory syncytial virus [2018],bovine respiratory syncytial virus [2018],1,0.076906973,"[2018.0,2018.0)",NULL
+1038,14153,host cells [2018],host cells [2018],1,0.5678149,"[2018.0,2024.0)",NULL
+1039,14156,inflammatory response [2018],inflammatory response [2018],1,0.402544959,"[2018.0,2024.0)",NULL
+1040,14157,hospital infections [2018],hospital infections [2018],1,0.072577652,"[2018.0,2024.0)",NULL
+1041,14160,human population [2018],human population [2018],1,0.131233991,"[2018.0,2024.0)",NULL
+1042,14166,IC50 values [2018],IC50 values [2018],1,0.032536691,"[2018.0,2018.0)",NULL
+1043,14169,pathogenic avian influenza virus [2018],pathogenic avian influenza virus [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1044,14170,early detection [2018],early detection [2018],1,0.683006355,"[2018.0,2024.0)",NULL
+1045,14173,evolutionary history [2018],evolutionary history [2018],1,0.131037172,"[2018.0,2024.0)",NULL
+1046,14174,animal models [2018],animal models [2018],1,0.24223967,"[2018.0,2024.0)",NULL
+1047,14176,health care workers [2018],health care workers [2018],1,0.094058858,"[2018.0,2024.0)",NULL
+1048,14177,pediatric patients [2018],pediatric patients [2018],1,0.168667442,"[2018.0,2024.0)",NULL
+1049,14179,health policy [2018],health policy [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1050,14180,low sensitivity [2018],low sensitivity [2018],1,0.067282338,"[2018.0,2024.0)",NULL
+1051,14181,medicinal chemistry [2018],medicinal chemistry [2018],1,0.080444406,"[2018.0,2024.0)",NULL
+1052,14182,human bocavirus [2018],human bocavirus [2018],1,0.194209066,"[2018.0,2024.0)",NULL
+1053,14183,ribosomal frameshifting [2018],ribosomal frameshifting [2018],1,0.098697919,"[2018.0,2024.0)",NULL
+1054,14184,post mortem examination [2018],post mortem examination [2018],1,0.054068576,"[2018.0,2024.0)",NULL
+1055,14185,hematologic malignancies [2018],hematologic malignancies [2018],1,0.018370875,"[2018.0,2019.0)",NULL
+1056,14186,biological relevance [2018],biological relevance [2018],1,0.089917261,"[2018.0,2024.0)",NULL
+1057,14187,cross sectional survey [2018],cross sectional survey [2018],1,0.496413775,"[2018.0,2024.0)",NULL
+1058,14189,international travel [2018],international travel [2018],1,0.00823945,"[2018.0,2020.0)",NULL
+1059,14190,experimental data [2018],experimental data [2018],1,0.20538292,"[2018.0,2024.0)",NULL
+1060,14198,climate change [2019],climate change [2019],1,0.202520314,"[2019.0,2024.0)",NULL
+1061,14205,nucleic acid [2019],nucleic acid [2019],1,0.239769099,"[2019.0,2024.0)",NULL
+1062,14210,Northern Italy [2019],Northern Italy [2019],1,0.191181092,"[2019.0,2024.0)",NULL
+1063,14216,infectious agents [2019],infectious agents [2019],1,0.265615971,"[2019.0,2024.0)",NULL
+1064,14218,antiviral activity [2019],antiviral activity [2019],1,0.242095907,"[2019.0,2024.0)",NULL
+1065,14223,Intensive Care Unit [2019],Intensive Care Unit [2019],1,0.45667566,"[2019.0,2024.0)",NULL
+1066,14226,community acquired pneumonia [2019],community acquired pneumonia [2019],1,0.457914523,"[2019.0,2024.0)",NULL
+1067,14227,public health emergency [2019],public health emergency [2019],1,0.63065838,"[2019.0,2024.0)",NULL
+1068,14231,mathematical model [2019],mathematical model [2019],1,0.28871144,"[2019.0,2024.0)",NULL
+1069,14233,South Korea [2019],South Korea [2019],1,0.31722004,"[2019.0,2024.0)",NULL
+1070,14238,traditional Chinese medicine [2019],traditional Chinese medicine [2019],1,0.15200519,"[2019.0,2024.0)",NULL
+1071,14241,mouse model [2019],mouse model [2019],1,0.209741072,"[2019.0,2024.0)",NULL
+1072,14244,site directed mutagenesis [2019],site directed mutagenesis [2019],1,0.002163152,"[2019.0,2019.0)",NULL
+1073,14245,Dengue virus [2019],Dengue virus [2019],1,0.073153372,"[2019.0,2024.0)",NULL
+1074,14246,Emergency Department visits [2019],Emergency Department visits [2019],1,0.014234083,"[2019.0,2019.0)",NULL
+1075,14248,high throughput [2019],high throughput [2019],1,0.299015598,"[2019.0,2024.0)",NULL
+1076,14249,systemic lupus erythematosus [2019],systemic lupus erythematosus [2019],1,0.114856649,"[2019.0,2024.0)",NULL
+1077,14250,protective effect [2019],protective effect [2019],1,0.148747078,"[2019.0,2024.0)",NULL
+1078,14251,HIV Infection [2019],HIV Infection [2019],1,0.159991795,"[2019.0,2024.0)",NULL
+1079,14252,genetic analysis [2019],genetic analysis [2019],1,0.013149479,"[2019.0,2020.0)",NULL
+1080,14253,clinical response [2019],clinical response [2019],1,0.005612844,"[2019.0,2020.0)",NULL
+1081,14254,severe bronchiolitis [2019],severe bronchiolitis [2019],1,3.74E-04,"[2019.0,2019.0)",NULL
+1082,14256,hospital admission [2020 Q1],hospital admission [2020 Q1],1,0.738567109,"[2020.0,2024.0)",NULL
+1083,14257,lockdown [2020 Q1],pregnant woman [2020 Q1],0,0.606047844,"[2020.0,2024.0)",NULL
+1084,14258,Wuhan [2020 Q1],Wuhan [2020 Q1],1,0.730325607,"[2020.0,2024.0)",NULL
+1085,14264,control measures [2020 Q1],control measures [2020 Q1],1,0.196577815,"[2020.0,2024.0)",NULL
+1086,14265,older people [2020 Q1],older people [2020 Q1],1,0.590342454,"[2020.0,2024.0)",NULL
+1087,14266,breast cancer [2020 Q1],breast cancer [2020 Q1],1,0.241348388,"[2020.0,2024.0)",NULL
+1088,14267,clinical characteristics [2020 Q1],clinical characteristics [2020 Q1],1,0.532238162,"[2020.0,2024.0)",NULL
+1089,14273,mortality [2020 Q1],mortality [2020 Q1],1,0.631854352,"[2020.0,2024.0)",NULL
+1090,14275,gastrointestinal symptoms [2020 Q1],gastrointestinal symptoms [2020 Q1],1,0.198961234,"[2020.0,2024.0)",NULL
+1091,14276,general practice [2020 Q1],general practice [2020 Q1],1,0.139092842,"[2020.0,2024.0)",NULL
+1092,14278,infected patients [2020 Q1],infected patients [2020 Q1],1,0.332600375,"[2020.0,2024.0)",NULL
+1093,14279,chronic disease [2020 Q1],chronic disease [2020 Q1],1,0.456398596,"[2020.0,2024.0)",NULL
+1094,14281,Latin America [2020 Q1],Latin America [2020 Q1],1,0.125483225,"[2020.0,2024.0)",NULL
+1095,14282,drug repurposing [2020 Q1],drug repurposing [2020 Q1],1,0.004560795,"[2020.0,2021.0)",NULL
+1096,14283,Southeast Asia [2020 Q1],Southeast Asia [2020 Q1],1,0.141851108,"[2020.0,2024.0)",NULL
+1097,14284,chloroquine hydroxychloroquine [2020 Q2],chloroquine hydroxychloroquine [2020 Q2],1,0.059484486,"[2021.0,2024.0)",NULL
+1098,14286,social isolation [2020 Q2],social isolation [2020 Q2],1,0.297800701,"[2021.0,2024.0)",NULL
+1099,14287,acute respiratory distress [2020 Q2],acute respiratory distress [2020 Q2],1,0.39706019,"[2021.0,2024.0)",NULL
+1100,14288,healthcare services [2020 Q2],healthcare services [2020 Q2],1,0.135727163,"[2021.0,2024.0)",NULL
+1101,14289,physicians [2020 Q2],physicians [2020 Q2],1,0.402435664,"[2021.0,2024.0)",NULL
+1102,14290,food insecurity [2020 Q2],food insecurity [2020 Q2],1,0.133520843,"[2021.0,2024.0)",NULL
+1103,14291,obesity [2020 Q2],obesity [2020 Q2],1,0.293354846,"[2021.0,2024.0)",NULL
+1104,14293,molecular dynamics [2020 Q2],molecular dynamics [2020 Q2],1,0.231722044,"[2021.0,2024.0)",NULL
+1105,14294,surgery [2020 Q2],surgery [2020 Q2],1,0.393073929,"[2021.0,2024.0)",NULL
+1106,14295,lung [2020 Q2],lung [2020 Q2],1,0.51341018,"[2021.0,2024.0)",NULL
+1107,14296,Clinical Practice [2020 Q2],Clinical Practice [2020 Q2],1,0.471655917,"[2021.0,2024.0)",NULL
+1108,14297,organ transplantation [2020 Q2],organ transplantation [2020 Q2],1,0.209651706,"[2021.0,2024.0)",NULL
+1109,14298,social interactions [2020 Q2],social interactions [2020 Q2],1,0.145516122,"[2021.0,2024.0)",NULL
+1110,14299,mental health [2020 Q2],Bangladesh [2020 Q2],0,0.432450047,"[2021.0,2024.0)",NULL
+1111,14300,simulation results [2020 Q2],simulation results [2020 Q2],1,0.068545526,"[2021.0,2024.0)",NULL
+1112,14301,chloroquine [2020 Q2],chloroquine [2020 Q2],1,0.314025719,"[2021.0,2024.0)",NULL
+1113,14302,primary care [2020 Q2],primary care [2020 Q2],1,0.216749966,"[2021.0,2024.0)",NULL
+1114,14304,Intravenous Immunoglobulin [2020 Q2],Intravenous Immunoglobulin [2020 Q2],1,0.065271515,"[2021.0,2024.0)",NULL
+1115,14305,point of care ultrasound [2020 Q2],point of care ultrasound [2020 Q2],1,0.064967161,"[2021.0,2024.0)",NULL
+1116,14306,anosmia [2020 Q2],anosmia [2020 Q2],1,0.236805441,"[2021.0,2024.0)",NULL
+1117,14307,Meta Analysis [2020 Q2],Meta Analysis [2020 Q2],1,0.407410756,"[2021.0,2024.0)",NULL
+1118,14308,myocardial injury [2020 Q2],myocardial injury [2020 Q2],1,0.365964029,"[2021.0,2024.0)",NULL
+1119,14309,South America [2020 Q2],South America [2020 Q2],1,0.099450421,"[2021.0,2024.0)",NULL
+1120,14310,immunosuppressive therapy [2020 Q2],immunosuppressive therapy [2020 Q2],1,0.042362194,"[2021.0,2024.0)",NULL
+1121,14311,patient care [2020 Q2],patient care [2020 Q2],1,0.322723746,"[2021.0,2024.0)",NULL
+1122,14313,drug discovery [2020 Q2],drug discovery [2020 Q2],1,0.091852024,"[2021.0,2024.0)",NULL
+1123,14316,management strategies [2020 Q2],management strategies [2020 Q2],1,0.211000726,"[2021.0,2024.0)",NULL
+1124,14317,severe cases [2020 Q2],severe cases [2020 Q2],1,0.218954608,"[2021.0,2024.0)",NULL
+1125,14318,homelessness [2020 Q2],homelessness [2020 Q2],1,0.076696795,"[2021.0,2024.0)",NULL
+1126,14319,corticosteroids [2020 Q2],corticosteroids [2020 Q2],1,0.116040448,"[2021.0,2024.0)",NULL
+1127,14322,immunity [2020 Q2],immunity [2020 Q2],1,0.335681002,"[2021.0,2024.0)",NULL
+1128,14323,pathogenesis [2020 Q2],pathogenesis [2020 Q2],1,0.327426579,"[2021.0,2024.0)",NULL
+1129,14324,herd immunity [2020 Q2],herd immunity [2020 Q2],1,0.118644632,"[2021.0,2024.0)",NULL
+1130,14325,emergency management [2020 Q2],emergency management [2020 Q2],1,0.061711478,"[2021.0,2024.0)",NULL
+1131,14326,cancer [2020 Q2],cancer [2020 Q2],1,0.473697595,"[2021.0,2024.0)",NULL
+1132,14327,ST segment Elevation Myocardial Infarction [2020 Q2],ST segment Elevation Myocardial Infarction [2020 Q2],1,0.084036214,"[2021.0,2024.0)",NULL
+1133,14328,test sensitivity [2020 Q2],test sensitivity [2020 Q2],1,0.403777533,"[2021.0,2024.0)",NULL
+1134,14329,clinical outcomes [2020 Q2],clinical outcomes [2020 Q2],1,0.323884528,"[2021.0,2024.0)",NULL
+1135,14331,diagnostic tests [2020 Q2],diagnostic tests [2020 Q2],1,0.252670368,"[2021.0,2024.0)",NULL
+1136,14332,orthopaedic surgeons [2020 Q2],orthopaedic surgeons [2020 Q2],1,0.132572159,"[2021.0,2024.0)",NULL
+1137,14333,remdesivir [2020 Q2],remdesivir [2020 Q2],1,0.29876569,"[2021.0,2024.0)",NULL
+1138,14334,Immune System [2020 Q2],Immune System [2020 Q2],1,0.1654607,"[2021.0,2024.0)",NULL
+1139,14336,aerosol [2020 Q2],aerosol [2020 Q2],1,0.143085744,"[2021.0,2024.0)",NULL
+1140,14337,Parkinson disease [2020 Q2],Parkinson disease [2020 Q2],1,0.193360227,"[2021.0,2024.0)",NULL
+1141,14338,nursing education [2020 Q2],nursing education [2020 Q2],1,0.120194552,"[2021.0,2024.0)",NULL
+1142,14339,abortion [2020 Q2],abortion [2020 Q2],1,0.163304814,"[2021.0,2024.0)",NULL
+1143,14341,international collaboration [2020 Q2],international collaboration [2020 Q2],1,0.098760084,"[2021.0,2024.0)",NULL
+1144,14342,risk perception [2020 Q2],risk perception [2020 Q2],1,0.438248171,"[2021.0,2024.0)",NULL
+1145,14343,exercise training [2020 Q2],exercise training [2020 Q2],1,0.340412222,"[2021.0,2024.0)",NULL
+1146,14345,bladder cancer [2020 Q2],bladder cancer [2020 Q2],1,0.031322417,"[2021.0,2024.0)",NULL
+1147,14346,cardiovascular risk [2020 Q2],cardiovascular risk [2020 Q2],1,0.03065807,"[2021.0,2024.0)",NULL
+1148,14348,COVID 19 prevention [2020 Q2],COVID 19 prevention [2020 Q2],1,0.102685416,"[2021.0,2024.0)",NULL
+1149,14349,IgG [2020 Q2],IgG [2020 Q2],1,0.231461409,"[2021.0,2024.0)",NULL
+1150,14350,rheumatic diseases [2020 Q2],rheumatic diseases [2020 Q2],1,0.10370536,"[2021.0,2024.0)",NULL
+1151,14351,ACE2 [2020 Q2],ACE2 [2020 Q2],1,0.462828289,"[2021.0,2024.0)",NULL
+1152,14353,Kawasaki disease [2020 Q2],Kawasaki disease [2020 Q2],1,0.168873893,"[2021.0,2024.0)",NULL
+1153,14354,trauma [2020 Q2],trauma [2020 Q2],1,0.214635598,"[2021.0,2024.0)",NULL
+1154,14355,coronavirus infection [2020 Q2],coronavirus infection [2020 Q2],1,0.218654288,"[2021.0,2024.0)",NULL
+1155,14357,artificial intelligence [2020 Q2],artificial intelligence [2020 Q2],1,0.235121997,"[2021.0,2024.0)",NULL
+1156,14360,regional anesthesia [2020 Q2],regional anesthesia [2020 Q2],1,0.039194301,"[2021.0,2024.0)",NULL
+1157,14362,Guillain-Barre syndrome [2020 Q2],Guillain-Barre syndrome [2020 Q2],1,0.09280457,"[2021.0,2024.0)",NULL
+1158,14363,face masks [2020 Q2],face masks [2020 Q2],1,0.196864122,"[2021.0,2024.0)",NULL
+1159,14364,COPD [2020 Q2],COPD [2020 Q2],1,0.133463605,"[2021.0,2024.0)",NULL
+1160,14366,opioid use disorder [2020 Q2],opioid use disorder [2020 Q2],1,0.05438628,"[2021.0,2024.0)",NULL
+1161,14368,extubation [2020 Q2],extubation [2020 Q2],1,0.099453187,"[2021.0,2024.0)",NULL
+1162,14370,cerebral venous thrombosis [2020 Q2],cerebral venous thrombosis [2020 Q2],1,0.013578929,"[2021.0,2024.0)",NULL
+1163,14371,universal masking [2020 Q2],universal masking [2020 Q2],1,0.040984921,"[2021.0,2024.0)",NULL
+1164,14373,preventive measures [2020 Q1],preventive measures [2020 Q1],1,0.621290417,"[2020.0,2024.0)",NULL
+1165,14374,Social Sciences [2020 Q2],Social Sciences [2020 Q2],1,0.051033019,"[2021.0,2024.0)",NULL
+1166,14377,inequalities [2020 Q2],inequalities [2020 Q2],1,0.087033078,"[2021.0,2024.0)",NULL
+1167,14378,environmental issues [2020 Q2],environmental issues [2020 Q2],1,0.002104982,"[2021.0,2021.0)",NULL
+1168,14381,global mental health [2020 Q2],global mental health [2020 Q2],1,0.028137733,"[2021.0,2024.0)",NULL
+1169,14382,digital health [2020 Q2],digital health [2020 Q2],1,0.072337939,"[2021.0,2024.0)",NULL
+1170,14383,safe practice [2020 Q2],safe practice [2020 Q2],1,0.031773092,"[2021.0,2024.0)",NULL
+1171,14384,mask wearing [2020 Q2],mask wearing [2020 Q2],1,3.98E-04,"[2021.0,2021.0)",NULL
+1172,14385,ageusia [2020 Q2],ageusia [2020 Q2],1,0.150243715,"[2021.0,2024.0)",NULL
+1173,14386,dexamethasone [2020 Q3],dexamethasone [2020 Q3],1,0.100933207,"[2022.0,2024.0)",NULL
+1174,14387,perioperative Care [2020 Q3],perioperative Care [2020 Q3],1,0.132213926,"[2022.0,2024.0)",NULL
+1175,14388,acute kidney injury [2020 Q3],acute kidney injury [2020 Q3],1,0.140177233,"[2022.0,2024.0)",NULL
+1176,14389,nursing homes [2020 Q3],nursing homes [2020 Q3],1,0.13634758,"[2022.0,2024.0)",NULL
+1177,14390,planetary health [2020 Q3],planetary health [2020 Q3],1,0.103599673,"[2022.0,2024.0)",NULL
+1178,14391,nanomaterials [2020 Q3],high risk COVID 19 patients [2020 Q3],0,0.065923741,"[2022.0,2024.0)",NULL
+1179,14392,digital transformation [2020 Q3],digital transformation [2020 Q3],1,0.061532865,"[2022.0,2024.0)",NULL
+1180,14393,seroprevalence [2020 Q3],seroprevalence [2020 Q3],1,0.075506433,"[2022.0,2024.0)",NULL
+1181,14394,tertiary hospital [2020 Q3],agricultural production [2020 Q3],0,0.087646032,"[2022.0,2024.0)",NULL
+1182,14395,Child Health [2020 Q3],Child Health [2020 Q3],1,0.089475034,"[2022.0,2024.0)",NULL
+1183,14396,tourism industry [2020 Q3],tourism industry [2020 Q3],1,0.026451256,"[2022.0,2024.0)",NULL
+1184,14397,post COVID 19 [2020 Q3],post COVID 19 [2020 Q3],1,0.088113937,"[2022.0,2024.0)",NULL
+1185,14398,heart surgery [2020 Q3],heart surgery [2020 Q3],1,0.134749373,"[2022.0,2024.0)",NULL
+1186,14403,Radiology [2020 Q3],Radiology [2020 Q3],1,0.055014273,"[2022.0,2024.0)",NULL
+1187,14404,infection risk [2020 Q3],infection risk [2020 Q3],1,0.057434216,"[2022.0,2024.0)",NULL
+1188,14405,drug development [2020 Q3],information technology [2020 Q3],0,0.091250705,"[2022.0,2024.0)",NULL
+1189,14406,spontaneous pneumothorax [2020 Q3],spontaneous pneumothorax [2020 Q3],1,0.065352521,"[2022.0,2024.0)",NULL
+1190,14407,tocilizumab [2020 Q3],tocilizumab [2020 Q3],1,0.118517022,"[2022.0,2024.0)",NULL
+1191,14408,pulmonary fibrosis [2020 Q3],pulmonary fibrosis [2020 Q3],1,0.045723055,"[2022.0,2024.0)",NULL
+1192,14409,contamination [2020 Q3],contamination [2020 Q3],1,0.118971037,"[2022.0,2024.0)",NULL
+1193,14411,ECMO [2020 Q3],ECMO [2020 Q3],1,0.091461913,"[2022.0,2024.0)",NULL
+1194,14412,Endoscopy [2020 Q3],Endoscopy [2020 Q3],1,0.160103086,"[2022.0,2024.0)",NULL
+1195,14415,tourists [2020 Q3],tourists [2020 Q3],1,0.076381606,"[2022.0,2024.0)",NULL
+1196,14416,human activities [2020 Q3],human activities [2020 Q3],1,0.044159213,"[2022.0,2024.0)",NULL
+1197,14417,sports activities [2020 Q3],sports activities [2020 Q3],1,0.052520193,"[2022.0,2024.0)",NULL
+1198,14418,telepsychiatry [2020 Q3],telepsychiatry [2020 Q3],1,0.145747413,"[2022.0,2024.0)",NULL
+1199,14419,pandemic times [2020 Q3],pandemic times [2020 Q3],1,0.025808557,"[2022.0,2024.0)",NULL
+1200,14421,serological tests [2020 Q3],serological tests [2020 Q3],1,0.091158666,"[2022.0,2024.0)",NULL
+1201,14422,immunomodulators [2020 Q3],immunomodulators [2020 Q3],1,0.057922516,"[2022.0,2024.0)",NULL
+1202,14423,cohort study [2020 Q3],cohort study [2020 Q3],1,0.140834917,"[2022.0,2024.0)",NULL
+1203,14424,liver involvement [2020 Q3],liver involvement [2020 Q3],1,0.041703517,"[2022.0,2024.0)",NULL
+1204,14425,respirators [2020 Q3],respirators [2020 Q3],1,0.083185266,"[2022.0,2024.0)",NULL
+1205,14426,complications [2020 Q3],complications [2020 Q3],1,0.248002432,"[2022.0,2024.0)",NULL
+1206,14427,lopinavir [2020 Q3],lopinavir [2020 Q3],1,0.107958742,"[2022.0,2024.0)",NULL
+1207,14431,collateral damage [2020 Q3],collateral damage [2020 Q3],1,0.046052964,"[2022.0,2024.0)",NULL
+1208,14434,risk management [2020 Q3],risk management [2020 Q3],1,0.059856657,"[2022.0,2024.0)",NULL
+1209,14436,Takotsubo cardiomyopathy [2020 Q3],Takotsubo cardiomyopathy [2020 Q3],1,0.070931346,"[2022.0,2024.0)",NULL
+1210,14437,adult patients [2020 Q3],adult patients [2020 Q3],1,0.078226768,"[2022.0,2024.0)",NULL
+1211,14438,adolescents [2020 Q3],adolescents [2020 Q3],1,0.217773496,"[2022.0,2024.0)",NULL
+1212,14440,Emotional impact [2020 Q3],Emotional impact [2020 Q3],1,0.039835249,"[2022.0,2024.0)",NULL
+1213,14443,obsessive compulsive disorder [2020 Q3],obsessive compulsive disorder [2020 Q3],1,0.029507277,"[2022.0,2024.0)",NULL
+1214,14444,food supplies [2020 Q3],food supplies [2020 Q3],1,0.03564275,"[2022.0,2024.0)",NULL
+1215,14445,systemic racism [2020 Q3],systemic racism [2020 Q3],1,0.014437235,"[2022.0,2024.0)",NULL
+1216,14446,population health [2020 Q3],population health [2020 Q3],1,0.079511785,"[2022.0,2024.0)",NULL
+1217,14447,animal welfare [2020 Q3],animal welfare [2020 Q3],1,0.113077263,"[2022.0,2024.0)",NULL
+1218,14448,acute ischemic stroke [2020 Q3],acute ischemic stroke [2020 Q3],1,0.069925598,"[2022.0,2024.0)",NULL
+1219,14449,ruxolitinib [2020 Q3],ruxolitinib [2020 Q3],1,0.07660352,"[2022.0,2024.0)",NULL
+1220,14453,fatal cases [2020 Q3],fatal cases [2020 Q3],1,0.04017574,"[2022.0,2024.0)",NULL
+1221,14454,school closures [2020 Q3],school closures [2020 Q3],1,0.078319385,"[2022.0,2024.0)",NULL
+1222,14455,pulmonary rehabilitation [2020 Q3],pulmonary rehabilitation [2020 Q3],1,0.019509274,"[2022.0,2024.0)",NULL
+1223,14456,mental health needs [2020 Q3],mental health needs [2020 Q3],1,0.024502956,"[2022.0,2024.0)",NULL
+1224,14457,laparoscopic surgery [2020 Q3],laparoscopic surgery [2020 Q3],1,0.015103446,"[2022.0,2024.0)",NULL
+1225,14458,saliva samples [2020 Q3],saliva samples [2020 Q3],1,0.052654063,"[2022.0,2024.0)",NULL
+1226,14459,hyperinflammation [2020 Q3],hyperinflammation [2020 Q3],1,0.056379766,"[2022.0,2024.0)",NULL
+1227,14460,telerehabilitation [2020 Q3],telerehabilitation [2020 Q3],1,0.04307623,"[2022.0,2024.0)",NULL
+1228,14463,work life balance [2020 Q3],work life balance [2020 Q3],1,0.030366713,"[2022.0,2024.0)",NULL
+1229,14464,virtual interviews [2020 Q3],virtual interviews [2020 Q3],1,0.001716552,"[2022.0,2022.0)",NULL
+1230,14465,Psychiatric Hospitals [2020 Q3],Psychiatric Hospitals [2020 Q3],1,0.029080457,"[2022.0,2024.0)",NULL
+1231,14466,myasthenia Gravis [2020 Q3],myasthenia Gravis [2020 Q3],1,0.017458356,"[2022.0,2024.0)",NULL
+1232,14467,ivermectin [2020 Q3],ivermectin [2020 Q3],1,0.047018399,"[2022.0,2024.0)",NULL
+1233,14468,invasive surgery [2020 Q3],invasive surgery [2020 Q3],1,0.016233208,"[2022.0,2024.0)",NULL
+1234,14472,indoor environments [2020 Q4],indoor environments [2020 Q4],1,0.020205194,"[2023.0,2024.0)",NULL
+1235,14473,qualitative study [2020 Q4],qualitative study [2020 Q4],1,0.091235271,"[2023.0,2024.0)",NULL
+1236,14474,localization [2020 Q4],localization [2020 Q4],1,0.055702733,"[2023.0,2024.0)",NULL
+1237,14475,manufacturing [2020 Q4],manufacturing [2020 Q4],1,0.076981371,"[2023.0,2024.0)",NULL
+1238,14476,secondary outcomes [2020 Q4],secondary outcomes [2020 Q4],1,0.103327282,"[2023.0,2024.0)",NULL
+1239,14477,psychometric properties [2020 Q4],psychometric properties [2020 Q4],1,0.04829723,"[2023.0,2024.0)",NULL
+1240,14479,convalescent plasma transfusion [2020 Q4],convalescent plasma transfusion [2020 Q4],1,0.043668086,"[2023.0,2024.0)",NULL
+1241,14480,teledermatology [2020 Q4],teledermatology [2020 Q4],1,0.050724342,"[2023.0,2024.0)",NULL
+1242,14487,policy implications [2020 Q4],policy implications [2020 Q4],1,0.048625446,"[2023.0,2024.0)",NULL
+1243,14488,relative humidity [2020 Q4],relative humidity [2020 Q4],1,0.049417734,"[2023.0,2024.0)",NULL
+1244,14491,glucocorticoids [2020 Q4],glucocorticoids [2020 Q4],1,0.054597339,"[2023.0,2024.0)",NULL
+1245,14493,pulse Oximetry [2020 Q4],pulse Oximetry [2020 Q4],1,0.05485869,"[2023.0,2024.0)",NULL
+1246,14494,retrospective observational study [2020 Q4],retrospective observational study [2020 Q4],1,0.046291577,"[2023.0,2024.0)",NULL
+1247,14495,human volunteers [2020 Q4],human volunteers [2020 Q4],1,0.069993924,"[2023.0,2024.0)",NULL
+1248,14496,female gender [2020 Q4],female gender [2020 Q4],1,0.034997856,"[2023.0,2024.0)",NULL
+1249,14497,protective measures [2020 Q4],protective measures [2020 Q4],1,0.051548753,"[2023.0,2024.0)",NULL
+1250,14498,sequela [2020 Q4],sequela [2020 Q4],1,0.046729146,"[2023.0,2024.0)",NULL
+1251,14499,misinformation [2020 Q4],misinformation [2020 Q4],1,0.069459251,"[2023.0,2024.0)",NULL
+1252,14500,autoantibodies [2020 Q4],autoantibodies [2020 Q4],1,0.058327714,"[2023.0,2024.0)",NULL
+1253,14501,transparency [2020 Q4],transparency [2020 Q4],1,0.068361466,"[2023.0,2024.0)",NULL
+1254,14502,clinical examination [2020 Q4],clinical examination [2020 Q4],1,0.042734772,"[2023.0,2024.0)",NULL
+1255,14503,thematic analysis [2020 Q4],thematic analysis [2020 Q4],1,0.066404893,"[2023.0,2024.0)",NULL
+1256,14505,atrial fibrillation [2020 Q4],atrial fibrillation [2020 Q4],1,0.048615319,"[2023.0,2024.0)",NULL
+1257,14506,microorganisms [2020 Q4],microorganisms [2020 Q4],1,0.03266045,"[2023.0,2024.0)",NULL
+1258,14507,N protein [2020 Q4],N protein [2020 Q4],1,0.065020731,"[2023.0,2024.0)",NULL
+1259,14508,oral manifestations [2020 Q4],surveillance data [2020 Q4],0,0.031168058,"[2023.0,2024.0)",NULL
+1260,14510,diagnostic tools [2020 Q4],diagnostic tools [2020 Q4],1,0.011461492,"[2023.0,2024.0)",NULL
+1261,14511,medical education [2020 Q4],medical education [2020 Q4],1,0.050059503,"[2023.0,2024.0)",NULL
+1262,14512,Longitudinal Study [2020 Q4],Longitudinal Study [2020 Q4],1,0.052884453,"[2023.0,2024.0)",NULL
+1263,14513,asymptomatic infection [2020 Q4],asymptomatic infection [2020 Q4],1,0.043857607,"[2023.0,2024.0)",NULL
+1264,14514,audio Interview [2020 Q4],audio Interview [2020 Q4],1,9.33E-04,"[2023.0,2024.0)",NULL
+1265,14516,high sensitivity [2020 Q4],high sensitivity [2020 Q4],1,0.032851889,"[2023.0,2024.0)",NULL
+1266,14518,viral load [2020 Q4],viral load [2020 Q4],1,0.042555192,"[2023.0,2024.0)",NULL
+1267,14521,cost effective [2020 Q4],cost effective [2020 Q4],1,0.060896185,"[2023.0,2024.0)",NULL
+1268,14524,online environment [2020 Q4],online environment [2020 Q4],1,0.024425493,"[2023.0,2024.0)",NULL
+1269,14528,Ophthalmology [2020 Q4],Ophthalmology [2020 Q4],1,0.019390839,"[2023.0,2024.0)",NULL
+1270,14530,pancytopenia [2020 Q4],pancytopenia [2020 Q4],1,0.007417655,"[2023.0,2024.0)",NULL
+1271,14531,Indian states [2020 Q4],Indian states [2020 Q4],1,0.00799878,"[2023.0,2024.0)",NULL
+1272,14532,colchicine [2020 Q4],colchicine [2020 Q4],1,0.011556255,"[2023.0,2024.0)",NULL
+1273,14535,percutaneous tracheostomy [2020 Q4],percutaneous tracheostomy [2020 Q4],1,0.011198292,"[2023.0,2024.0)",NULL
+1274,14540,cardiac complications [2020 Q4],cardiac complications [2020 Q4],1,0.00876632,"[2023.0,2024.0)",NULL
+1275,14542,environmental surfaces [2020 Q4],environmental surfaces [2020 Q4],1,0.015934619,"[2023.0,2024.0)",NULL
+1276,14545,empirical results [2021],empirical results [2021],1,0.046222841,"[2024.0,2024.0)",NULL
+1277,14549,digital platforms [2021],laws [2021],0,0.028745918,"[2024.0,2024.0)",NULL
+965,13957,SARS CoV [2009],SARS CoV [2009],1,0.612551011,"[2009.0,2024.0)",NULL
+966,13959,viral infection [2010],viral infection [2010],1,0.769774635,"[2010.0,2024.0)",NULL
+967,13962,infectious diseases [2011],infectious diseases [2011],1,0.77849538,"[2011.0,2024.0)",NULL
+968,13963,Central Nervous System [2011],Central Nervous System [2011],1,0.358149851,"[2011.0,2024.0)",NULL
+969,13964,respiratory viruses [2012],respiratory viruses [2012],1,0.478344362,"[2012.0,2024.0)",NULL
+970,13969,IFN alpha [2012],IFN alpha [2012],1,0.226906468,"[2012.0,2016.0)",NULL
+971,13970,developing countries [2012],developing countries [2012],1,0.01213798,"[2012.0,2012.0)",NULL
+972,13974,phylogenetic analysis [2013],phylogenetic analysis [2013],1,0.331715714,"[2013.0,2024.0)",NULL
+973,13975,T cells [2013],T cells [2013],1,0.199418653,"[2013.0,2014.0)",NULL
+974,13977,respiratory symptoms [2013],respiratory symptoms [2013],1,0.739207143,"[2013.0,2024.0)",NULL
+975,13978,MERS CoV [2013],MERS CoV [2013],1,0.715209942,"[2013.0,2024.0)",NULL
+976,13980,viral replication [2013],viral replication [2013],1,0.475784552,"[2013.0,2024.0)",NULL
+977,13981,viral pathogenesis [2013],viral pathogenesis [2013],1,0.177723001,"[2013.0,2024.0)",NULL
+978,13982,global health [2013],global health [2013],1,0.138522165,"[2013.0,2024.0)",NULL
+979,13983,systemic infection [2013],systemic infection [2013],1,0.010084128,"[2013.0,2014.0)",NULL
+980,13985,respiratory infections [2014],respiratory infections [2014],1,0.290021138,"[2014.0,2024.0)",NULL
+981,13991,porcine epidemic diarrhea virus [2014],porcine epidemic diarrhea virus [2014],1,0.270612223,"[2014.0,2024.0)",NULL
+982,13992,epidemiology [2014],epidemiology [2014],1,0.848544178,"[2014.0,2024.0)",NULL
+983,13993,HIV [2014],HIV [2014],1,0.488608137,"[2014.0,2024.0)",NULL
+984,13997,respiratory medicine [2014],respiratory medicine [2014],1,3.61E-04,"[2014.0,2014.0)",NULL
+985,14000,acute respiratory distress syndrome [2014],acute respiratory distress syndrome [2014],1,0.081659578,"[2014.0,2018.0)",NULL
+986,14004,allergic reactions [2014],allergic reactions [2014],1,0.196868375,"[2014.0,2024.0)",NULL
+987,14006,infectious bronchitis virus [2015],infectious bronchitis virus [2015],1,0.278498198,"[2015.0,2024.0)",NULL
+988,14015,human infection [2015],human infection [2015],1,0.12527956,"[2015.0,2017.0)",NULL
+989,14016,cell culture [2015],cell culture [2015],1,0.166799662,"[2015.0,2024.0)",NULL
+990,14017,feline infectious peritonitis [2015],feline infectious peritonitis [2015],1,0.129311966,"[2015.0,2024.0)",NULL
+991,14021,immune response [2015],immune response [2015],1,0.573901846,"[2015.0,2024.0)",NULL
+992,14022,gene expression [2015],gene expression [2015],1,0.35493,"[2015.0,2024.0)",NULL
+993,14024,Ebola virus disease [2015],Ebola virus disease [2015],1,0.120459645,"[2015.0,2017.0)",NULL
+994,14026,case report [2015],case report [2015],1,0.516441227,"[2015.0,2024.0)",NULL
+995,14027,fever [2015],fever [2015],1,0.719830704,"[2015.0,2024.0)",NULL
+996,14028,public health [2015],public health [2015],1,0.643460062,"[2015.0,2024.0)",NULL
+997,14029,broad spectrum [2015],broad spectrum [2015],1,0.363510965,"[2015.0,2024.0)",NULL
+998,14030,host response [2015],host response [2015],1,0.148090688,"[2015.0,2024.0)",NULL
+999,14031,respiratory pathogens [2015],respiratory pathogens [2015],1,0.100270689,"[2015.0,2018.0)",NULL
+1000,14032,human vaccine [2015],human vaccine [2015],1,0.003274712,"[2015.0,2016.0)",NULL
+1001,14038,RNA viruses [2016],RNA viruses [2016],1,0.212633186,"[2016.0,2024.0)",NULL
+1002,14040,viral proteins [2016],viral proteins [2016],1,0.141818351,"[2016.0,2018.0)",NULL
+1003,14043,West Africa [2016],West Africa [2016],1,0.190565579,"[2016.0,2024.0)",NULL
+1004,14049,innate immunity [2016],innate immunity [2016],1,0.152740788,"[2016.0,2018.0)",NULL
+1005,14050,respiratory syncytial virus [2016],respiratory syncytial virus [2016],1,0.30544042,"[2016.0,2024.0)",NULL
+1006,14051,disease control [2016],disease control [2016],1,0.285193687,"[2016.0,2024.0)",NULL
+1007,14057,United States [2016],United States [2016],1,0.762988016,"[2016.0,2024.0)",NULL
+1008,14059,respiratory disease [2016],respiratory disease [2016],1,0.054249561,"[2016.0,2016.0)",NULL
+1009,14060,canine coronavirus [2016],canine coronavirus [2016],1,0.04650075,"[2016.0,2016.0)",NULL
+1010,14064,complete genome sequence [2016],complete genome sequence [2016],1,0.144988551,"[2016.0,2024.0)",NULL
+1011,14066,Molecular Mechanisms [2016],Molecular Mechanisms [2016],1,0.528765667,"[2016.0,2024.0)",NULL
+1012,14067,mammalian cells [2016],mammalian cells [2016],1,0.022200175,"[2016.0,2018.0)",NULL
+1013,14071,canine distemper virus [2017],canine distemper virus [2017],1,0.31432565,"[2017.0,2024.0)",NULL
+1014,14087,Zika virus [2017],Zika virus [2017],1,0.167836676,"[2017.0,2024.0)",NULL
+1015,14088,viral RNA [2017],viral RNA [2017],1,0.235213531,"[2017.0,2024.0)",NULL
+1016,14089,fecal samples [2017],fecal samples [2017],1,0.100661527,"[2017.0,2024.0)",NULL
+1017,14093,retrospective study [2017],retrospective study [2017],1,0.458395101,"[2017.0,2024.0)",NULL
+1018,14097,expression levels [2017],expression levels [2017],1,0.13909343,"[2017.0,2024.0)",NULL
+1019,14101,North America [2017],North America [2017],1,0.064223154,"[2017.0,2017.0)",NULL
+1020,14104,real time PCR [2017],real time PCR [2017],1,0.109365507,"[2017.0,2017.0)",NULL
+1021,14108,clinical signs [2017],clinical signs [2017],1,0.593360241,"[2017.0,2024.0)",NULL
+1022,14112,crystal structure [2017],crystal structure [2017],1,0.136766465,"[2017.0,2024.0)",NULL
+1023,14113,infection prevention [2017],infection prevention [2017],1,0.24489686,"[2017.0,2024.0)",NULL
+1024,14114,Hong Kong [2017],Hong Kong [2017],1,0.263528271,"[2017.0,2024.0)",NULL
+1025,14116,Huh7 cells [2017],Huh7 cells [2017],1,0.407157005,"[2017.0,2024.0)",NULL
+1026,14117,coronavirus spike protein [2017],coronavirus spike protein [2017],1,0.134098797,"[2017.0,2024.0)",NULL
+1027,14118,blood samples [2017],blood samples [2017],1,0.060375196,"[2017.0,2018.0)",NULL
+1028,14119,wastewater [2017],wastewater [2017],1,0.086393295,"[2017.0,2024.0)",NULL
+1029,14120,pandemic risk [2017],pandemic risk [2017],1,0.007967309,"[2017.0,2019.0)",NULL
+1030,14121,natural products [2017],natural products [2017],1,0.007896139,"[2017.0,2017.0)",NULL
+1031,14122,low income countries [2017],low income countries [2017],1,0.248700989,"[2017.0,2024.0)",NULL
+1032,14123,biological properties [2017],biological properties [2017],1,0.407677223,"[2017.0,2024.0)",NULL
+1033,14131,Saudi Arabia [2018],Saudi Arabia [2018],1,0.285565701,"[2018.0,2024.0)",NULL
+1034,14138,Escherichia coli [2018],Escherichia coli [2018],1,0.53645631,"[2018.0,2024.0)",NULL
+1035,14148,Polymerase chain reaction [2018],Polymerase chain reaction [2018],1,0.281034127,"[2018.0,2024.0)",NULL
+1036,14149,RT PCR [2018],RT PCR [2018],1,0.698226056,"[2018.0,2024.0)",NULL
+1037,14150,bovine respiratory syncytial virus [2018],bovine respiratory syncytial virus [2018],1,0.076906973,"[2018.0,2018.0)",NULL
+1038,14153,host cells [2018],host cells [2018],1,0.5678149,"[2018.0,2024.0)",NULL
+1039,14156,inflammatory response [2018],inflammatory response [2018],1,0.402544959,"[2018.0,2024.0)",NULL
+1040,14157,hospital infections [2018],hospital infections [2018],1,0.072577652,"[2018.0,2024.0)",NULL
+1041,14160,human population [2018],human population [2018],1,0.131233991,"[2018.0,2024.0)",NULL
+1042,14166,IC50 values [2018],IC50 values [2018],1,0.032536691,"[2018.0,2018.0)",NULL
+1043,14169,pathogenic avian influenza virus [2018],pathogenic avian influenza virus [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1044,14170,early detection [2018],early detection [2018],1,0.683006355,"[2018.0,2024.0)",NULL
+1045,14173,evolutionary history [2018],evolutionary history [2018],1,0.131037172,"[2018.0,2024.0)",NULL
+1046,14174,animal models [2018],animal models [2018],1,0.24223967,"[2018.0,2024.0)",NULL
+1047,14176,health care workers [2018],health care workers [2018],1,0.094058858,"[2018.0,2024.0)",NULL
+1048,14177,pediatric patients [2018],pediatric patients [2018],1,0.168667442,"[2018.0,2024.0)",NULL
+1049,14179,health policy [2018],health policy [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1050,14180,low sensitivity [2018],low sensitivity [2018],1,0.067282338,"[2018.0,2024.0)",NULL
+1051,14181,medicinal chemistry [2018],medicinal chemistry [2018],1,0.080444406,"[2018.0,2024.0)",NULL
+1052,14182,human bocavirus [2018],human bocavirus [2018],1,0.194209066,"[2018.0,2024.0)",NULL
+1053,14183,ribosomal frameshifting [2018],ribosomal frameshifting [2018],1,0.098697919,"[2018.0,2024.0)",NULL
+1054,14184,post mortem examination [2018],post mortem examination [2018],1,0.054068576,"[2018.0,2024.0)",NULL
+1055,14185,hematologic malignancies [2018],hematologic malignancies [2018],1,0.018370875,"[2018.0,2019.0)",NULL
+1056,14186,biological relevance [2018],biological relevance [2018],1,0.089917261,"[2018.0,2024.0)",NULL
+1057,14187,cross sectional survey [2018],cross sectional survey [2018],1,0.496413775,"[2018.0,2024.0)",NULL
+1058,14189,international travel [2018],international travel [2018],1,0.00823945,"[2018.0,2020.0)",NULL
+1059,14190,experimental data [2018],experimental data [2018],1,0.20538292,"[2018.0,2024.0)",NULL
+1060,14198,climate change [2019],climate change [2019],1,0.202520314,"[2019.0,2024.0)",NULL
+1061,14205,nucleic acid [2019],nucleic acid [2019],1,0.239769099,"[2019.0,2024.0)",NULL
+1062,14210,Northern Italy [2019],Northern Italy [2019],1,0.191181092,"[2019.0,2024.0)",NULL
+1063,14216,infectious agents [2019],infectious agents [2019],1,0.265615971,"[2019.0,2024.0)",NULL
+1064,14218,antiviral activity [2019],antiviral activity [2019],1,0.242095907,"[2019.0,2024.0)",NULL
+1065,14223,Intensive Care Unit [2019],Intensive Care Unit [2019],1,0.45667566,"[2019.0,2024.0)",NULL
+1066,14226,community acquired pneumonia [2019],community acquired pneumonia [2019],1,0.457914523,"[2019.0,2024.0)",NULL
+1067,14227,public health emergency [2019],public health emergency [2019],1,0.63065838,"[2019.0,2024.0)",NULL
+1068,14231,mathematical model [2019],mathematical model [2019],1,0.28871144,"[2019.0,2024.0)",NULL
+1069,14233,South Korea [2019],South Korea [2019],1,0.31722004,"[2019.0,2024.0)",NULL
+1070,14238,traditional Chinese medicine [2019],traditional Chinese medicine [2019],1,0.15200519,"[2019.0,2024.0)",NULL
+1071,14241,mouse model [2019],mouse model [2019],1,0.209741072,"[2019.0,2024.0)",NULL
+1072,14244,site directed mutagenesis [2019],site directed mutagenesis [2019],1,0.002163152,"[2019.0,2019.0)",NULL
+1073,14245,Dengue virus [2019],Dengue virus [2019],1,0.073153372,"[2019.0,2024.0)",NULL
+1074,14246,Emergency Department visits [2019],Emergency Department visits [2019],1,0.014234083,"[2019.0,2019.0)",NULL
+1075,14248,high throughput [2019],high throughput [2019],1,0.299015598,"[2019.0,2024.0)",NULL
+1076,14249,systemic lupus erythematosus [2019],systemic lupus erythematosus [2019],1,0.114856649,"[2019.0,2024.0)",NULL
+1077,14250,protective effect [2019],protective effect [2019],1,0.148747078,"[2019.0,2024.0)",NULL
+1078,14251,HIV Infection [2019],HIV Infection [2019],1,0.159991795,"[2019.0,2024.0)",NULL
+1079,14252,genetic analysis [2019],genetic analysis [2019],1,0.013149479,"[2019.0,2020.0)",NULL
+1080,14253,clinical response [2019],clinical response [2019],1,0.005612844,"[2019.0,2020.0)",NULL
+1081,14254,severe bronchiolitis [2019],severe bronchiolitis [2019],1,3.74E-04,"[2019.0,2019.0)",NULL
+1082,14256,hospital admission [2020 Q1],hospital admission [2020 Q1],1,0.738567109,"[2020.0,2024.0)",NULL
+1083,14257,lockdown [2020 Q1],pregnant woman [2020 Q1],0,0.606047844,"[2020.0,2024.0)",NULL
+1084,14258,Wuhan [2020 Q1],Wuhan [2020 Q1],1,0.730325607,"[2020.0,2024.0)",NULL
+1085,14264,control measures [2020 Q1],control measures [2020 Q1],1,0.196577815,"[2020.0,2024.0)",NULL
+1086,14265,older people [2020 Q1],older people [2020 Q1],1,0.590342454,"[2020.0,2024.0)",NULL
+1087,14266,breast cancer [2020 Q1],breast cancer [2020 Q1],1,0.241348388,"[2020.0,2024.0)",NULL
+1088,14267,clinical characteristics [2020 Q1],clinical characteristics [2020 Q1],1,0.532238162,"[2020.0,2024.0)",NULL
+1089,14273,mortality [2020 Q1],mortality [2020 Q1],1,0.631854352,"[2020.0,2024.0)",NULL
+1090,14275,gastrointestinal symptoms [2020 Q1],gastrointestinal symptoms [2020 Q1],1,0.198961234,"[2020.0,2024.0)",NULL
+1091,14276,general practice [2020 Q1],general practice [2020 Q1],1,0.139092842,"[2020.0,2024.0)",NULL
+1092,14278,infected patients [2020 Q1],infected patients [2020 Q1],1,0.332600375,"[2020.0,2024.0)",NULL
+1093,14279,chronic disease [2020 Q1],chronic disease [2020 Q1],1,0.456398596,"[2020.0,2024.0)",NULL
+1094,14281,Latin America [2020 Q1],Latin America [2020 Q1],1,0.125483225,"[2020.0,2024.0)",NULL
+1095,14282,drug repurposing [2020 Q1],drug repurposing [2020 Q1],1,0.004560795,"[2020.0,2021.0)",NULL
+1096,14283,Southeast Asia [2020 Q1],Southeast Asia [2020 Q1],1,0.141851108,"[2020.0,2024.0)",NULL
+1097,14284,chloroquine hydroxychloroquine [2020 Q2],chloroquine hydroxychloroquine [2020 Q2],1,0.059484486,"[2021.0,2024.0)",NULL
+1098,14286,social isolation [2020 Q2],social isolation [2020 Q2],1,0.297800701,"[2021.0,2024.0)",NULL
+1099,14287,acute respiratory distress [2020 Q2],acute respiratory distress [2020 Q2],1,0.39706019,"[2021.0,2024.0)",NULL
+1100,14288,healthcare services [2020 Q2],healthcare services [2020 Q2],1,0.135727163,"[2021.0,2024.0)",NULL
+1101,14289,physicians [2020 Q2],physicians [2020 Q2],1,0.402435664,"[2021.0,2024.0)",NULL
+1102,14290,food insecurity [2020 Q2],food insecurity [2020 Q2],1,0.133520843,"[2021.0,2024.0)",NULL
+1103,14291,obesity [2020 Q2],obesity [2020 Q2],1,0.293354846,"[2021.0,2024.0)",NULL
+1104,14293,molecular dynamics [2020 Q2],molecular dynamics [2020 Q2],1,0.231722044,"[2021.0,2024.0)",NULL
+1105,14294,surgery [2020 Q2],surgery [2020 Q2],1,0.393073929,"[2021.0,2024.0)",NULL
+1106,14295,lung [2020 Q2],lung [2020 Q2],1,0.51341018,"[2021.0,2024.0)",NULL
+1107,14296,Clinical Practice [2020 Q2],Clinical Practice [2020 Q2],1,0.471655917,"[2021.0,2024.0)",NULL
+1108,14297,organ transplantation [2020 Q2],organ transplantation [2020 Q2],1,0.209651706,"[2021.0,2024.0)",NULL
+1109,14298,social interactions [2020 Q2],social interactions [2020 Q2],1,0.145516122,"[2021.0,2024.0)",NULL
+1110,14299,mental health [2020 Q2],Bangladesh [2020 Q2],0,0.432450047,"[2021.0,2024.0)",NULL
+1111,14300,simulation results [2020 Q2],simulation results [2020 Q2],1,0.068545526,"[2021.0,2024.0)",NULL
+1112,14301,chloroquine [2020 Q2],chloroquine [2020 Q2],1,0.314025719,"[2021.0,2024.0)",NULL
+1113,14302,primary care [2020 Q2],primary care [2020 Q2],1,0.216749966,"[2021.0,2024.0)",NULL
+1114,14304,Intravenous Immunoglobulin [2020 Q2],Intravenous Immunoglobulin [2020 Q2],1,0.065271515,"[2021.0,2024.0)",NULL
+1115,14305,point of care ultrasound [2020 Q2],point of care ultrasound [2020 Q2],1,0.064967161,"[2021.0,2024.0)",NULL
+1116,14306,anosmia [2020 Q2],anosmia [2020 Q2],1,0.236805441,"[2021.0,2024.0)",NULL
+1117,14307,Meta Analysis [2020 Q2],Meta Analysis [2020 Q2],1,0.407410756,"[2021.0,2024.0)",NULL
+1118,14308,myocardial injury [2020 Q2],myocardial injury [2020 Q2],1,0.365964029,"[2021.0,2024.0)",NULL
+1119,14309,South America [2020 Q2],South America [2020 Q2],1,0.099450421,"[2021.0,2024.0)",NULL
+1120,14310,immunosuppressive therapy [2020 Q2],immunosuppressive therapy [2020 Q2],1,0.042362194,"[2021.0,2024.0)",NULL
+1121,14311,patient care [2020 Q2],patient care [2020 Q2],1,0.322723746,"[2021.0,2024.0)",NULL
+1122,14313,drug discovery [2020 Q2],drug discovery [2020 Q2],1,0.091852024,"[2021.0,2024.0)",NULL
+1123,14316,management strategies [2020 Q2],management strategies [2020 Q2],1,0.211000726,"[2021.0,2024.0)",NULL
+1124,14317,severe cases [2020 Q2],severe cases [2020 Q2],1,0.218954608,"[2021.0,2024.0)",NULL
+1125,14318,homelessness [2020 Q2],homelessness [2020 Q2],1,0.076696795,"[2021.0,2024.0)",NULL
+1126,14319,corticosteroids [2020 Q2],corticosteroids [2020 Q2],1,0.116040448,"[2021.0,2024.0)",NULL
+1127,14322,immunity [2020 Q2],immunity [2020 Q2],1,0.335681002,"[2021.0,2024.0)",NULL
+1128,14323,pathogenesis [2020 Q2],pathogenesis [2020 Q2],1,0.327426579,"[2021.0,2024.0)",NULL
+1129,14324,herd immunity [2020 Q2],herd immunity [2020 Q2],1,0.118644632,"[2021.0,2024.0)",NULL
+1130,14325,emergency management [2020 Q2],emergency management [2020 Q2],1,0.061711478,"[2021.0,2024.0)",NULL
+1131,14326,cancer [2020 Q2],cancer [2020 Q2],1,0.473697595,"[2021.0,2024.0)",NULL
+1132,14327,ST segment Elevation Myocardial Infarction [2020 Q2],ST segment Elevation Myocardial Infarction [2020 Q2],1,0.084036214,"[2021.0,2024.0)",NULL
+1133,14328,test sensitivity [2020 Q2],test sensitivity [2020 Q2],1,0.403777533,"[2021.0,2024.0)",NULL
+1134,14329,clinical outcomes [2020 Q2],clinical outcomes [2020 Q2],1,0.323884528,"[2021.0,2024.0)",NULL
+1135,14331,diagnostic tests [2020 Q2],diagnostic tests [2020 Q2],1,0.252670368,"[2021.0,2024.0)",NULL
+1136,14332,orthopaedic surgeons [2020 Q2],orthopaedic surgeons [2020 Q2],1,0.132572159,"[2021.0,2024.0)",NULL
+1137,14333,remdesivir [2020 Q2],remdesivir [2020 Q2],1,0.29876569,"[2021.0,2024.0)",NULL
+1138,14334,Immune System [2020 Q2],Immune System [2020 Q2],1,0.1654607,"[2021.0,2024.0)",NULL
+1139,14336,aerosol [2020 Q2],aerosol [2020 Q2],1,0.143085744,"[2021.0,2024.0)",NULL
+1140,14337,Parkinson disease [2020 Q2],Parkinson disease [2020 Q2],1,0.193360227,"[2021.0,2024.0)",NULL
+1141,14338,nursing education [2020 Q2],nursing education [2020 Q2],1,0.120194552,"[2021.0,2024.0)",NULL
+1142,14339,abortion [2020 Q2],abortion [2020 Q2],1,0.163304814,"[2021.0,2024.0)",NULL
+1143,14341,international collaboration [2020 Q2],international collaboration [2020 Q2],1,0.098760084,"[2021.0,2024.0)",NULL
+1144,14342,risk perception [2020 Q2],risk perception [2020 Q2],1,0.438248171,"[2021.0,2024.0)",NULL
+1145,14343,exercise training [2020 Q2],exercise training [2020 Q2],1,0.340412222,"[2021.0,2024.0)",NULL
+1146,14345,bladder cancer [2020 Q2],bladder cancer [2020 Q2],1,0.031322417,"[2021.0,2024.0)",NULL
+1147,14346,cardiovascular risk [2020 Q2],cardiovascular risk [2020 Q2],1,0.03065807,"[2021.0,2024.0)",NULL
+1148,14348,COVID 19 prevention [2020 Q2],COVID 19 prevention [2020 Q2],1,0.102685416,"[2021.0,2024.0)",NULL
+1149,14349,IgG [2020 Q2],IgG [2020 Q2],1,0.231461409,"[2021.0,2024.0)",NULL
+1150,14350,rheumatic diseases [2020 Q2],rheumatic diseases [2020 Q2],1,0.10370536,"[2021.0,2024.0)",NULL
+1151,14351,ACE2 [2020 Q2],ACE2 [2020 Q2],1,0.462828289,"[2021.0,2024.0)",NULL
+1152,14353,Kawasaki disease [2020 Q2],Kawasaki disease [2020 Q2],1,0.168873893,"[2021.0,2024.0)",NULL
+1153,14354,trauma [2020 Q2],trauma [2020 Q2],1,0.214635598,"[2021.0,2024.0)",NULL
+1154,14355,coronavirus infection [2020 Q2],coronavirus infection [2020 Q2],1,0.218654288,"[2021.0,2024.0)",NULL
+1155,14357,artificial intelligence [2020 Q2],artificial intelligence [2020 Q2],1,0.235121997,"[2021.0,2024.0)",NULL
+1156,14360,regional anesthesia [2020 Q2],regional anesthesia [2020 Q2],1,0.039194301,"[2021.0,2024.0)",NULL
+1157,14362,Guillain-Barre syndrome [2020 Q2],Guillain-Barre syndrome [2020 Q2],1,0.09280457,"[2021.0,2024.0)",NULL
+1158,14363,face masks [2020 Q2],face masks [2020 Q2],1,0.196864122,"[2021.0,2024.0)",NULL
+1159,14364,COPD [2020 Q2],COPD [2020 Q2],1,0.133463605,"[2021.0,2024.0)",NULL
+1160,14366,opioid use disorder [2020 Q2],opioid use disorder [2020 Q2],1,0.05438628,"[2021.0,2024.0)",NULL
+1161,14368,extubation [2020 Q2],extubation [2020 Q2],1,0.099453187,"[2021.0,2024.0)",NULL
+1162,14370,cerebral venous thrombosis [2020 Q2],cerebral venous thrombosis [2020 Q2],1,0.013578929,"[2021.0,2024.0)",NULL
+1163,14371,universal masking [2020 Q2],universal masking [2020 Q2],1,0.040984921,"[2021.0,2024.0)",NULL
+1164,14373,preventive measures [2020 Q1],preventive measures [2020 Q1],1,0.621290417,"[2020.0,2024.0)",NULL
+1165,14374,Social Sciences [2020 Q2],Social Sciences [2020 Q2],1,0.051033019,"[2021.0,2024.0)",NULL
+1166,14377,inequalities [2020 Q2],inequalities [2020 Q2],1,0.087033078,"[2021.0,2024.0)",NULL
+1167,14378,environmental issues [2020 Q2],environmental issues [2020 Q2],1,0.002104982,"[2021.0,2021.0)",NULL
+1168,14381,global mental health [2020 Q2],global mental health [2020 Q2],1,0.028137733,"[2021.0,2024.0)",NULL
+1169,14382,digital health [2020 Q2],digital health [2020 Q2],1,0.072337939,"[2021.0,2024.0)",NULL
+1170,14383,safe practice [2020 Q2],safe practice [2020 Q2],1,0.031773092,"[2021.0,2024.0)",NULL
+1171,14384,mask wearing [2020 Q2],mask wearing [2020 Q2],1,3.98E-04,"[2021.0,2021.0)",NULL
+1172,14385,ageusia [2020 Q2],ageusia [2020 Q2],1,0.150243715,"[2021.0,2024.0)",NULL
+1173,14386,dexamethasone [2020 Q3],dexamethasone [2020 Q3],1,0.100933207,"[2022.0,2024.0)",NULL
+1174,14387,perioperative Care [2020 Q3],perioperative Care [2020 Q3],1,0.132213926,"[2022.0,2024.0)",NULL
+1175,14388,acute kidney injury [2020 Q3],acute kidney injury [2020 Q3],1,0.140177233,"[2022.0,2024.0)",NULL
+1176,14389,nursing homes [2020 Q3],nursing homes [2020 Q3],1,0.13634758,"[2022.0,2024.0)",NULL
+1177,14390,planetary health [2020 Q3],planetary health [2020 Q3],1,0.103599673,"[2022.0,2024.0)",NULL
+1178,14391,nanomaterials [2020 Q3],high risk COVID 19 patients [2020 Q3],0,0.065923741,"[2022.0,2024.0)",NULL
+1179,14392,digital transformation [2020 Q3],digital transformation [2020 Q3],1,0.061532865,"[2022.0,2024.0)",NULL
+1180,14393,seroprevalence [2020 Q3],seroprevalence [2020 Q3],1,0.075506433,"[2022.0,2024.0)",NULL
+1181,14394,tertiary hospital [2020 Q3],agricultural production [2020 Q3],0,0.087646032,"[2022.0,2024.0)",NULL
+1182,14395,Child Health [2020 Q3],Child Health [2020 Q3],1,0.089475034,"[2022.0,2024.0)",NULL
+1183,14396,tourism industry [2020 Q3],tourism industry [2020 Q3],1,0.026451256,"[2022.0,2024.0)",NULL
+1184,14397,post COVID 19 [2020 Q3],post COVID 19 [2020 Q3],1,0.088113937,"[2022.0,2024.0)",NULL
+1185,14398,heart surgery [2020 Q3],heart surgery [2020 Q3],1,0.134749373,"[2022.0,2024.0)",NULL
+1186,14403,Radiology [2020 Q3],Radiology [2020 Q3],1,0.055014273,"[2022.0,2024.0)",NULL
+1187,14404,infection risk [2020 Q3],infection risk [2020 Q3],1,0.057434216,"[2022.0,2024.0)",NULL
+1188,14405,drug development [2020 Q3],information technology [2020 Q3],0,0.091250705,"[2022.0,2024.0)",NULL
+1189,14406,spontaneous pneumothorax [2020 Q3],spontaneous pneumothorax [2020 Q3],1,0.065352521,"[2022.0,2024.0)",NULL
+1190,14407,tocilizumab [2020 Q3],tocilizumab [2020 Q3],1,0.118517022,"[2022.0,2024.0)",NULL
+1191,14408,pulmonary fibrosis [2020 Q3],pulmonary fibrosis [2020 Q3],1,0.045723055,"[2022.0,2024.0)",NULL
+1192,14409,contamination [2020 Q3],contamination [2020 Q3],1,0.118971037,"[2022.0,2024.0)",NULL
+1193,14411,ECMO [2020 Q3],ECMO [2020 Q3],1,0.091461913,"[2022.0,2024.0)",NULL
+1194,14412,Endoscopy [2020 Q3],Endoscopy [2020 Q3],1,0.160103086,"[2022.0,2024.0)",NULL
+1195,14415,tourists [2020 Q3],tourists [2020 Q3],1,0.076381606,"[2022.0,2024.0)",NULL
+1196,14416,human activities [2020 Q3],human activities [2020 Q3],1,0.044159213,"[2022.0,2024.0)",NULL
+1197,14417,sports activities [2020 Q3],sports activities [2020 Q3],1,0.052520193,"[2022.0,2024.0)",NULL
+1198,14418,telepsychiatry [2020 Q3],telepsychiatry [2020 Q3],1,0.145747413,"[2022.0,2024.0)",NULL
+1199,14419,pandemic times [2020 Q3],pandemic times [2020 Q3],1,0.025808557,"[2022.0,2024.0)",NULL
+1200,14421,serological tests [2020 Q3],serological tests [2020 Q3],1,0.091158666,"[2022.0,2024.0)",NULL
+1201,14422,immunomodulators [2020 Q3],immunomodulators [2020 Q3],1,0.057922516,"[2022.0,2024.0)",NULL
+1202,14423,cohort study [2020 Q3],cohort study [2020 Q3],1,0.140834917,"[2022.0,2024.0)",NULL
+1203,14424,liver involvement [2020 Q3],liver involvement [2020 Q3],1,0.041703517,"[2022.0,2024.0)",NULL
+1204,14425,respirators [2020 Q3],respirators [2020 Q3],1,0.083185266,"[2022.0,2024.0)",NULL
+1205,14426,complications [2020 Q3],complications [2020 Q3],1,0.248002432,"[2022.0,2024.0)",NULL
+1206,14427,lopinavir [2020 Q3],lopinavir [2020 Q3],1,0.107958742,"[2022.0,2024.0)",NULL
+1207,14431,collateral damage [2020 Q3],collateral damage [2020 Q3],1,0.046052964,"[2022.0,2024.0)",NULL
+1208,14434,risk management [2020 Q3],risk management [2020 Q3],1,0.059856657,"[2022.0,2024.0)",NULL
+1209,14436,Takotsubo cardiomyopathy [2020 Q3],Takotsubo cardiomyopathy [2020 Q3],1,0.070931346,"[2022.0,2024.0)",NULL
+1210,14437,adult patients [2020 Q3],adult patients [2020 Q3],1,0.078226768,"[2022.0,2024.0)",NULL
+1211,14438,adolescents [2020 Q3],adolescents [2020 Q3],1,0.217773496,"[2022.0,2024.0)",NULL
+1212,14440,Emotional impact [2020 Q3],Emotional impact [2020 Q3],1,0.039835249,"[2022.0,2024.0)",NULL
+1213,14443,obsessive compulsive disorder [2020 Q3],obsessive compulsive disorder [2020 Q3],1,0.029507277,"[2022.0,2024.0)",NULL
+1214,14444,food supplies [2020 Q3],food supplies [2020 Q3],1,0.03564275,"[2022.0,2024.0)",NULL
+1215,14445,systemic racism [2020 Q3],systemic racism [2020 Q3],1,0.014437235,"[2022.0,2024.0)",NULL
+1216,14446,population health [2020 Q3],population health [2020 Q3],1,0.079511785,"[2022.0,2024.0)",NULL
+1217,14447,animal welfare [2020 Q3],animal welfare [2020 Q3],1,0.113077263,"[2022.0,2024.0)",NULL
+1218,14448,acute ischemic stroke [2020 Q3],acute ischemic stroke [2020 Q3],1,0.069925598,"[2022.0,2024.0)",NULL
+1219,14449,ruxolitinib [2020 Q3],ruxolitinib [2020 Q3],1,0.07660352,"[2022.0,2024.0)",NULL
+1220,14453,fatal cases [2020 Q3],fatal cases [2020 Q3],1,0.04017574,"[2022.0,2024.0)",NULL
+1221,14454,school closures [2020 Q3],school closures [2020 Q3],1,0.078319385,"[2022.0,2024.0)",NULL
+1222,14455,pulmonary rehabilitation [2020 Q3],pulmonary rehabilitation [2020 Q3],1,0.019509274,"[2022.0,2024.0)",NULL
+1223,14456,mental health needs [2020 Q3],mental health needs [2020 Q3],1,0.024502956,"[2022.0,2024.0)",NULL
+1224,14457,laparoscopic surgery [2020 Q3],laparoscopic surgery [2020 Q3],1,0.015103446,"[2022.0,2024.0)",NULL
+1225,14458,saliva samples [2020 Q3],saliva samples [2020 Q3],1,0.052654063,"[2022.0,2024.0)",NULL
+1226,14459,hyperinflammation [2020 Q3],hyperinflammation [2020 Q3],1,0.056379766,"[2022.0,2024.0)",NULL
+1227,14460,telerehabilitation [2020 Q3],telerehabilitation [2020 Q3],1,0.04307623,"[2022.0,2024.0)",NULL
+1228,14463,work life balance [2020 Q3],work life balance [2020 Q3],1,0.030366713,"[2022.0,2024.0)",NULL
+1229,14464,virtual interviews [2020 Q3],virtual interviews [2020 Q3],1,0.001716552,"[2022.0,2022.0)",NULL
+1230,14465,Psychiatric Hospitals [2020 Q3],Psychiatric Hospitals [2020 Q3],1,0.029080457,"[2022.0,2024.0)",NULL
+1231,14466,myasthenia Gravis [2020 Q3],myasthenia Gravis [2020 Q3],1,0.017458356,"[2022.0,2024.0)",NULL
+1232,14467,ivermectin [2020 Q3],ivermectin [2020 Q3],1,0.047018399,"[2022.0,2024.0)",NULL
+1233,14468,invasive surgery [2020 Q3],invasive surgery [2020 Q3],1,0.016233208,"[2022.0,2024.0)",NULL
+1234,14472,indoor environments [2020 Q4],indoor environments [2020 Q4],1,0.020205194,"[2023.0,2024.0)",NULL
+1235,14473,qualitative study [2020 Q4],qualitative study [2020 Q4],1,0.091235271,"[2023.0,2024.0)",NULL
+1236,14474,localization [2020 Q4],localization [2020 Q4],1,0.055702733,"[2023.0,2024.0)",NULL
+1237,14475,manufacturing [2020 Q4],manufacturing [2020 Q4],1,0.076981371,"[2023.0,2024.0)",NULL
+1238,14476,secondary outcomes [2020 Q4],secondary outcomes [2020 Q4],1,0.103327282,"[2023.0,2024.0)",NULL
+1239,14477,psychometric properties [2020 Q4],psychometric properties [2020 Q4],1,0.04829723,"[2023.0,2024.0)",NULL
+1240,14479,convalescent plasma transfusion [2020 Q4],convalescent plasma transfusion [2020 Q4],1,0.043668086,"[2023.0,2024.0)",NULL
+1241,14480,teledermatology [2020 Q4],teledermatology [2020 Q4],1,0.050724342,"[2023.0,2024.0)",NULL
+1242,14487,policy implications [2020 Q4],policy implications [2020 Q4],1,0.048625446,"[2023.0,2024.0)",NULL
+1243,14488,relative humidity [2020 Q4],relative humidity [2020 Q4],1,0.049417734,"[2023.0,2024.0)",NULL
+1244,14491,glucocorticoids [2020 Q4],glucocorticoids [2020 Q4],1,0.054597339,"[2023.0,2024.0)",NULL
+1245,14493,pulse Oximetry [2020 Q4],pulse Oximetry [2020 Q4],1,0.05485869,"[2023.0,2024.0)",NULL
+1246,14494,retrospective observational study [2020 Q4],retrospective observational study [2020 Q4],1,0.046291577,"[2023.0,2024.0)",NULL
+1247,14495,human volunteers [2020 Q4],human volunteers [2020 Q4],1,0.069993924,"[2023.0,2024.0)",NULL
+1248,14496,female gender [2020 Q4],female gender [2020 Q4],1,0.034997856,"[2023.0,2024.0)",NULL
+1249,14497,protective measures [2020 Q4],protective measures [2020 Q4],1,0.051548753,"[2023.0,2024.0)",NULL
+1250,14498,sequela [2020 Q4],sequela [2020 Q4],1,0.046729146,"[2023.0,2024.0)",NULL
+1251,14499,misinformation [2020 Q4],misinformation [2020 Q4],1,0.069459251,"[2023.0,2024.0)",NULL
+1252,14500,autoantibodies [2020 Q4],autoantibodies [2020 Q4],1,0.058327714,"[2023.0,2024.0)",NULL
+1253,14501,transparency [2020 Q4],transparency [2020 Q4],1,0.068361466,"[2023.0,2024.0)",NULL
+1254,14502,clinical examination [2020 Q4],clinical examination [2020 Q4],1,0.042734772,"[2023.0,2024.0)",NULL
+1255,14503,thematic analysis [2020 Q4],thematic analysis [2020 Q4],1,0.066404893,"[2023.0,2024.0)",NULL
+1256,14505,atrial fibrillation [2020 Q4],atrial fibrillation [2020 Q4],1,0.048615319,"[2023.0,2024.0)",NULL
+1257,14506,microorganisms [2020 Q4],microorganisms [2020 Q4],1,0.03266045,"[2023.0,2024.0)",NULL
+1258,14507,N protein [2020 Q4],N protein [2020 Q4],1,0.065020731,"[2023.0,2024.0)",NULL
+1259,14508,oral manifestations [2020 Q4],surveillance data [2020 Q4],0,0.031168058,"[2023.0,2024.0)",NULL
+1260,14510,diagnostic tools [2020 Q4],diagnostic tools [2020 Q4],1,0.011461492,"[2023.0,2024.0)",NULL
+1261,14511,medical education [2020 Q4],medical education [2020 Q4],1,0.050059503,"[2023.0,2024.0)",NULL
+1262,14512,Longitudinal Study [2020 Q4],Longitudinal Study [2020 Q4],1,0.052884453,"[2023.0,2024.0)",NULL
+1263,14513,asymptomatic infection [2020 Q4],asymptomatic infection [2020 Q4],1,0.043857607,"[2023.0,2024.0)",NULL
+1264,14514,audio Interview [2020 Q4],audio Interview [2020 Q4],1,9.33E-04,"[2023.0,2024.0)",NULL
+1265,14516,high sensitivity [2020 Q4],high sensitivity [2020 Q4],1,0.032851889,"[2023.0,2024.0)",NULL
+1266,14518,viral load [2020 Q4],viral load [2020 Q4],1,0.042555192,"[2023.0,2024.0)",NULL
+1267,14521,cost effective [2020 Q4],cost effective [2020 Q4],1,0.060896185,"[2023.0,2024.0)",NULL
+1268,14524,online environment [2020 Q4],online environment [2020 Q4],1,0.024425493,"[2023.0,2024.0)",NULL
+1269,14528,Ophthalmology [2020 Q4],Ophthalmology [2020 Q4],1,0.019390839,"[2023.0,2024.0)",NULL
+1270,14530,pancytopenia [2020 Q4],pancytopenia [2020 Q4],1,0.007417655,"[2023.0,2024.0)",NULL
+1271,14531,Indian states [2020 Q4],Indian states [2020 Q4],1,0.00799878,"[2023.0,2024.0)",NULL
+1272,14532,colchicine [2020 Q4],colchicine [2020 Q4],1,0.011556255,"[2023.0,2024.0)",NULL
+1273,14535,percutaneous tracheostomy [2020 Q4],percutaneous tracheostomy [2020 Q4],1,0.011198292,"[2023.0,2024.0)",NULL
+1274,14540,cardiac complications [2020 Q4],cardiac complications [2020 Q4],1,0.00876632,"[2023.0,2024.0)",NULL
+1275,14542,environmental surfaces [2020 Q4],environmental surfaces [2020 Q4],1,0.015934619,"[2023.0,2024.0)",NULL
+1276,14545,empirical results [2021],empirical results [2021],1,0.046222841,"[2024.0,2024.0)",NULL
+1277,14549,digital platforms [2021],laws [2021],0,0.028745918,"[2024.0,2024.0)",NULL
+965,13957,SARS CoV [2009],SARS CoV [2009],1,0.612551011,"[2009.0,2024.0)",NULL
+966,13959,viral infection [2010],viral infection [2010],1,0.769774635,"[2010.0,2024.0)",NULL
+967,13962,infectious diseases [2011],infectious diseases [2011],1,0.77849538,"[2011.0,2024.0)",NULL
+968,13963,Central Nervous System [2011],Central Nervous System [2011],1,0.358149851,"[2011.0,2024.0)",NULL
+969,13964,respiratory viruses [2012],respiratory viruses [2012],1,0.478344362,"[2012.0,2024.0)",NULL
+970,13969,IFN alpha [2012],IFN alpha [2012],1,0.226906468,"[2012.0,2016.0)",NULL
+971,13970,developing countries [2012],developing countries [2012],1,0.01213798,"[2012.0,2012.0)",NULL
+972,13974,phylogenetic analysis [2013],phylogenetic analysis [2013],1,0.331715714,"[2013.0,2024.0)",NULL
+973,13975,T cells [2013],T cells [2013],1,0.199418653,"[2013.0,2014.0)",NULL
+974,13977,respiratory symptoms [2013],respiratory symptoms [2013],1,0.739207143,"[2013.0,2024.0)",NULL
+975,13978,MERS CoV [2013],MERS CoV [2013],1,0.715209942,"[2013.0,2024.0)",NULL
+976,13980,viral replication [2013],viral replication [2013],1,0.475784552,"[2013.0,2024.0)",NULL
+977,13981,viral pathogenesis [2013],viral pathogenesis [2013],1,0.177723001,"[2013.0,2024.0)",NULL
+978,13982,global health [2013],global health [2013],1,0.138522165,"[2013.0,2024.0)",NULL
+979,13983,systemic infection [2013],systemic infection [2013],1,0.010084128,"[2013.0,2014.0)",NULL
+980,13985,respiratory infections [2014],respiratory infections [2014],1,0.290021138,"[2014.0,2024.0)",NULL
+981,13991,porcine epidemic diarrhea virus [2014],porcine epidemic diarrhea virus [2014],1,0.270612223,"[2014.0,2024.0)",NULL
+982,13992,epidemiology [2014],epidemiology [2014],1,0.848544178,"[2014.0,2024.0)",NULL
+983,13993,HIV [2014],HIV [2014],1,0.488608137,"[2014.0,2024.0)",NULL
+984,13997,respiratory medicine [2014],respiratory medicine [2014],1,3.61E-04,"[2014.0,2014.0)",NULL
+985,14000,acute respiratory distress syndrome [2014],acute respiratory distress syndrome [2014],1,0.081659578,"[2014.0,2018.0)",NULL
+986,14004,allergic reactions [2014],allergic reactions [2014],1,0.196868375,"[2014.0,2024.0)",NULL
+987,14006,infectious bronchitis virus [2015],infectious bronchitis virus [2015],1,0.278498198,"[2015.0,2024.0)",NULL
+988,14015,human infection [2015],human infection [2015],1,0.12527956,"[2015.0,2017.0)",NULL
+989,14016,cell culture [2015],cell culture [2015],1,0.166799662,"[2015.0,2024.0)",NULL
+990,14017,feline infectious peritonitis [2015],feline infectious peritonitis [2015],1,0.129311966,"[2015.0,2024.0)",NULL
+991,14021,immune response [2015],immune response [2015],1,0.573901846,"[2015.0,2024.0)",NULL
+992,14022,gene expression [2015],gene expression [2015],1,0.35493,"[2015.0,2024.0)",NULL
+993,14024,Ebola virus disease [2015],Ebola virus disease [2015],1,0.120459645,"[2015.0,2017.0)",NULL
+994,14026,case report [2015],case report [2015],1,0.516441227,"[2015.0,2024.0)",NULL
+995,14027,fever [2015],fever [2015],1,0.719830704,"[2015.0,2024.0)",NULL
+996,14028,public health [2015],public health [2015],1,0.643460062,"[2015.0,2024.0)",NULL
+997,14029,broad spectrum [2015],broad spectrum [2015],1,0.363510965,"[2015.0,2024.0)",NULL
+998,14030,host response [2015],host response [2015],1,0.148090688,"[2015.0,2024.0)",NULL
+999,14031,respiratory pathogens [2015],respiratory pathogens [2015],1,0.100270689,"[2015.0,2018.0)",NULL
+1000,14032,human vaccine [2015],human vaccine [2015],1,0.003274712,"[2015.0,2016.0)",NULL
+1001,14038,RNA viruses [2016],RNA viruses [2016],1,0.212633186,"[2016.0,2024.0)",NULL
+1002,14040,viral proteins [2016],viral proteins [2016],1,0.141818351,"[2016.0,2018.0)",NULL
+1003,14043,West Africa [2016],West Africa [2016],1,0.190565579,"[2016.0,2024.0)",NULL
+1004,14049,innate immunity [2016],innate immunity [2016],1,0.152740788,"[2016.0,2018.0)",NULL
+1005,14050,respiratory syncytial virus [2016],respiratory syncytial virus [2016],1,0.30544042,"[2016.0,2024.0)",NULL
+1006,14051,disease control [2016],disease control [2016],1,0.285193687,"[2016.0,2024.0)",NULL
+1007,14057,United States [2016],United States [2016],1,0.762988016,"[2016.0,2024.0)",NULL
+1008,14059,respiratory disease [2016],respiratory disease [2016],1,0.054249561,"[2016.0,2016.0)",NULL
+1009,14060,canine coronavirus [2016],canine coronavirus [2016],1,0.04650075,"[2016.0,2016.0)",NULL
+1010,14064,complete genome sequence [2016],complete genome sequence [2016],1,0.144988551,"[2016.0,2024.0)",NULL
+1011,14066,Molecular Mechanisms [2016],Molecular Mechanisms [2016],1,0.528765667,"[2016.0,2024.0)",NULL
+1012,14067,mammalian cells [2016],mammalian cells [2016],1,0.022200175,"[2016.0,2018.0)",NULL
+1013,14071,canine distemper virus [2017],canine distemper virus [2017],1,0.31432565,"[2017.0,2024.0)",NULL
+1014,14087,Zika virus [2017],Zika virus [2017],1,0.167836676,"[2017.0,2024.0)",NULL
+1015,14088,viral RNA [2017],viral RNA [2017],1,0.235213531,"[2017.0,2024.0)",NULL
+1016,14089,fecal samples [2017],fecal samples [2017],1,0.100661527,"[2017.0,2024.0)",NULL
+1017,14093,retrospective study [2017],retrospective study [2017],1,0.458395101,"[2017.0,2024.0)",NULL
+1018,14097,expression levels [2017],expression levels [2017],1,0.13909343,"[2017.0,2024.0)",NULL
+1019,14101,North America [2017],North America [2017],1,0.064223154,"[2017.0,2017.0)",NULL
+1020,14104,real time PCR [2017],real time PCR [2017],1,0.109365507,"[2017.0,2017.0)",NULL
+1021,14108,clinical signs [2017],clinical signs [2017],1,0.593360241,"[2017.0,2024.0)",NULL
+1022,14112,crystal structure [2017],crystal structure [2017],1,0.136766465,"[2017.0,2024.0)",NULL
+1023,14113,infection prevention [2017],infection prevention [2017],1,0.24489686,"[2017.0,2024.0)",NULL
+1024,14114,Hong Kong [2017],Hong Kong [2017],1,0.263528271,"[2017.0,2024.0)",NULL
+1025,14116,Huh7 cells [2017],Huh7 cells [2017],1,0.407157005,"[2017.0,2024.0)",NULL
+1026,14117,coronavirus spike protein [2017],coronavirus spike protein [2017],1,0.134098797,"[2017.0,2024.0)",NULL
+1027,14118,blood samples [2017],blood samples [2017],1,0.060375196,"[2017.0,2018.0)",NULL
+1028,14119,wastewater [2017],wastewater [2017],1,0.086393295,"[2017.0,2024.0)",NULL
+1029,14120,pandemic risk [2017],pandemic risk [2017],1,0.007967309,"[2017.0,2019.0)",NULL
+1030,14121,natural products [2017],natural products [2017],1,0.007896139,"[2017.0,2017.0)",NULL
+1031,14122,low income countries [2017],low income countries [2017],1,0.248700989,"[2017.0,2024.0)",NULL
+1032,14123,biological properties [2017],biological properties [2017],1,0.407677223,"[2017.0,2024.0)",NULL
+1033,14131,Saudi Arabia [2018],Saudi Arabia [2018],1,0.285565701,"[2018.0,2024.0)",NULL
+1034,14138,Escherichia coli [2018],Escherichia coli [2018],1,0.53645631,"[2018.0,2024.0)",NULL
+1035,14148,Polymerase chain reaction [2018],Polymerase chain reaction [2018],1,0.281034127,"[2018.0,2024.0)",NULL
+1036,14149,RT PCR [2018],RT PCR [2018],1,0.698226056,"[2018.0,2024.0)",NULL
+1037,14150,bovine respiratory syncytial virus [2018],bovine respiratory syncytial virus [2018],1,0.076906973,"[2018.0,2018.0)",NULL
+1038,14153,host cells [2018],host cells [2018],1,0.5678149,"[2018.0,2024.0)",NULL
+1039,14156,inflammatory response [2018],inflammatory response [2018],1,0.402544959,"[2018.0,2024.0)",NULL
+1040,14157,hospital infections [2018],hospital infections [2018],1,0.072577652,"[2018.0,2024.0)",NULL
+1041,14160,human population [2018],human population [2018],1,0.131233991,"[2018.0,2024.0)",NULL
+1042,14166,IC50 values [2018],IC50 values [2018],1,0.032536691,"[2018.0,2018.0)",NULL
+1043,14169,pathogenic avian influenza virus [2018],pathogenic avian influenza virus [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1044,14170,early detection [2018],early detection [2018],1,0.683006355,"[2018.0,2024.0)",NULL
+1045,14173,evolutionary history [2018],evolutionary history [2018],1,0.131037172,"[2018.0,2024.0)",NULL
+1046,14174,animal models [2018],animal models [2018],1,0.24223967,"[2018.0,2024.0)",NULL
+1047,14176,health care workers [2018],health care workers [2018],1,0.094058858,"[2018.0,2024.0)",NULL
+1048,14177,pediatric patients [2018],pediatric patients [2018],1,0.168667442,"[2018.0,2024.0)",NULL
+1049,14179,health policy [2018],health policy [2018],1,3.98E-04,"[2018.0,2018.0)",NULL
+1050,14180,low sensitivity [2018],low sensitivity [2018],1,0.067282338,"[2018.0,2024.0)",NULL
+1051,14181,medicinal chemistry [2018],medicinal chemistry [2018],1,0.080444406,"[2018.0,2024.0)",NULL
+1052,14182,human bocavirus [2018],human bocavirus [2018],1,0.194209066,"[2018.0,2024.0)",NULL
+1053,14183,ribosomal frameshifting [2018],ribosomal frameshifting [2018],1,0.098697919,"[2018.0,2024.0)",NULL
+1054,14184,post mortem examination [2018],post mortem examination [2018],1,0.054068576,"[2018.0,2024.0)",NULL
+1055,14185,hematologic malignancies [2018],hematologic malignancies [2018],1,0.018370875,"[2018.0,2019.0)",NULL
+1056,14186,biological relevance [2018],biological relevance [2018],1,0.089917261,"[2018.0,2024.0)",NULL
+1057,14187,cross sectional survey [2018],cross sectional survey [2018],1,0.496413775,"[2018.0,2024.0)",NULL
+1058,14189,international travel [2018],international travel [2018],1,0.00823945,"[2018.0,2020.0)",NULL
+1059,14190,experimental data [2018],experimental data [2018],1,0.20538292,"[2018.0,2024.0)",NULL
+1060,14198,climate change [2019],climate change [2019],1,0.202520314,"[2019.0,2024.0)",NULL
+1061,14205,nucleic acid [2019],nucleic acid [2019],1,0.239769099,"[2019.0,2024.0)",NULL
+1062,14210,Northern Italy [2019],Northern Italy [2019],1,0.191181092,"[2019.0,2024.0)",NULL
+1063,14216,infectious agents [2019],infectious agents [2019],1,0.265615971,"[2019.0,2024.0)",NULL
+1064,14218,antiviral activity [2019],antiviral activity [2019],1,0.242095907,"[2019.0,2024.0)",NULL
+1065,14223,Intensive Care Unit [2019],Intensive Care Unit [2019],1,0.45667566,"[2019.0,2024.0)",NULL
+1066,14226,community acquired pneumonia [2019],community acquired pneumonia [2019],1,0.457914523,"[2019.0,2024.0)",NULL
+1067,14227,public health emergency [2019],public health emergency [2019],1,0.63065838,"[2019.0,2024.0)",NULL
+1068,14231,mathematical model [2019],mathematical model [2019],1,0.28871144,"[2019.0,2024.0)",NULL
+1069,14233,South Korea [2019],South Korea [2019],1,0.31722004,"[2019.0,2024.0)",NULL
+1070,14238,traditional Chinese medicine [2019],traditional Chinese medicine [2019],1,0.15200519,"[2019.0,2024.0)",NULL
+1071,14241,mouse model [2019],mouse model [2019],1,0.209741072,"[2019.0,2024.0)",NULL
+1072,14244,site directed mutagenesis [2019],site directed mutagenesis [2019],1,0.002163152,"[2019.0,2019.0)",NULL
+1073,14245,Dengue virus [2019],Dengue virus [2019],1,0.073153372,"[2019.0,2024.0)",NULL
+1074,14246,Emergency Department visits [2019],Emergency Department visits [2019],1,0.014234083,"[2019.0,2019.0)",NULL
+1075,14248,high throughput [2019],high throughput [2019],1,0.299015598,"[2019.0,2024.0)",NULL
+1076,14249,systemic lupus erythematosus [2019],systemic lupus erythematosus [2019],1,0.114856649,"[2019.0,2024.0)",NULL
+1077,14250,protective effect [2019],protective effect [2019],1,0.148747078,"[2019.0,2024.0)",NULL
+1078,14251,HIV Infection [2019],HIV Infection [2019],1,0.159991795,"[2019.0,2024.0)",NULL
+1079,14252,genetic analysis [2019],genetic analysis [2019],1,0.013149479,"[2019.0,2020.0)",NULL
+1080,14253,clinical response [2019],clinical response [2019],1,0.005612844,"[2019.0,2020.0)",NULL
+1081,14254,severe bronchiolitis [2019],severe bronchiolitis [2019],1,3.74E-04,"[2019.0,2019.0)",NULL
+1082,14256,hospital admission [2020 Q1],hospital admission [2020 Q1],1,0.738567109,"[2020.0,2024.0)",NULL
+1083,14257,lockdown [2020 Q1],pregnant woman [2020 Q1],0,0.606047844,"[2020.0,2024.0)",NULL
+1084,14258,Wuhan [2020 Q1],Wuhan [2020 Q1],1,0.730325607,"[2020.0,2024.0)",NULL
+1085,14264,control measures [2020 Q1],control measures [2020 Q1],1,0.196577815,"[2020.0,2024.0)",NULL
+1086,14265,older people [2020 Q1],older people [2020 Q1],1,0.590342454,"[2020.0,2024.0)",NULL
+1087,14266,breast cancer [2020 Q1],breast cancer [2020 Q1],1,0.241348388,"[2020.0,2024.0)",NULL
+1088,14267,clinical characteristics [2020 Q1],clinical characteristics [2020 Q1],1,0.532238162,"[2020.0,2024.0)",NULL
+1089,14273,mortality [2020 Q1],mortality [2020 Q1],1,0.631854352,"[2020.0,2024.0)",NULL
+1090,14275,gastrointestinal symptoms [2020 Q1],gastrointestinal symptoms [2020 Q1],1,0.198961234,"[2020.0,2024.0)",NULL
+1091,14276,general practice [2020 Q1],general practice [2020 Q1],1,0.139092842,"[2020.0,2024.0)",NULL
+1092,14278,infected patients [2020 Q1],infected patients [2020 Q1],1,0.332600375,"[2020.0,2024.0)",NULL
+1093,14279,chronic disease [2020 Q1],chronic disease [2020 Q1],1,0.456398596,"[2020.0,2024.0)",NULL
+1094,14281,Latin America [2020 Q1],Latin America [2020 Q1],1,0.125483225,"[2020.0,2024.0)",NULL
+1095,14282,drug repurposing [2020 Q1],drug repurposing [2020 Q1],1,0.004560795,"[2020.0,2021.0)",NULL
+1096,14283,Southeast Asia [2020 Q1],Southeast Asia [2020 Q1],1,0.141851108,"[2020.0,2024.0)",NULL
+1097,14284,chloroquine hydroxychloroquine [2020 Q2],chloroquine hydroxychloroquine [2020 Q2],1,0.059484486,"[2021.0,2024.0)",NULL
+1098,14286,social isolation [2020 Q2],social isolation [2020 Q2],1,0.297800701,"[2021.0,2024.0)",NULL
+1099,14287,acute respiratory distress [2020 Q2],acute respiratory distress [2020 Q2],1,0.39706019,"[2021.0,2024.0)",NULL
+1100,14288,healthcare services [2020 Q2],healthcare services [2020 Q2],1,0.135727163,"[2021.0,2024.0)",NULL
+1101,14289,physicians [2020 Q2],physicians [2020 Q2],1,0.402435664,"[2021.0,2024.0)",NULL
+1102,14290,food insecurity [2020 Q2],food insecurity [2020 Q2],1,0.133520843,"[2021.0,2024.0)",NULL
+1103,14291,obesity [2020 Q2],obesity [2020 Q2],1,0.293354846,"[2021.0,2024.0)",NULL
+1104,14293,molecular dynamics [2020 Q2],molecular dynamics [2020 Q2],1,0.231722044,"[2021.0,2024.0)",NULL
+1105,14294,surgery [2020 Q2],surgery [2020 Q2],1,0.393073929,"[2021.0,2024.0)",NULL
+1106,14295,lung [2020 Q2],lung [2020 Q2],1,0.51341018,"[2021.0,2024.0)",NULL
+1107,14296,Clinical Practice [2020 Q2],Clinical Practice [2020 Q2],1,0.471655917,"[2021.0,2024.0)",NULL
+1108,14297,organ transplantation [2020 Q2],organ transplantation [2020 Q2],1,0.209651706,"[2021.0,2024.0)",NULL
+1109,14298,social interactions [2020 Q2],social interactions [2020 Q2],1,0.145516122,"[2021.0,2024.0)",NULL
+1110,14299,mental health [2020 Q2],Bangladesh [2020 Q2],0,0.432450047,"[2021.0,2024.0)",NULL
+1111,14300,simulation results [2020 Q2],simulation results [2020 Q2],1,0.068545526,"[2021.0,2024.0)",NULL
+1112,14301,chloroquine [2020 Q2],chloroquine [2020 Q2],1,0.314025719,"[2021.0,2024.0)",NULL
+1113,14302,primary care [2020 Q2],primary care [2020 Q2],1,0.216749966,"[2021.0,2024.0)",NULL
+1114,14304,Intravenous Immunoglobulin [2020 Q2],Intravenous Immunoglobulin [2020 Q2],1,0.065271515,"[2021.0,2024.0)",NULL
+1115,14305,point of care ultrasound [2020 Q2],point of care ultrasound [2020 Q2],1,0.064967161,"[2021.0,2024.0)",NULL
+1116,14306,anosmia [2020 Q2],anosmia [2020 Q2],1,0.236805441,"[2021.0,2024.0)",NULL
+1117,14307,Meta Analysis [2020 Q2],Meta Analysis [2020 Q2],1,0.407410756,"[2021.0,2024.0)",NULL
+1118,14308,myocardial injury [2020 Q2],myocardial injury [2020 Q2],1,0.365964029,"[2021.0,2024.0)",NULL
+1119,14309,South America [2020 Q2],South America [2020 Q2],1,0.099450421,"[2021.0,2024.0)",NULL
+1120,14310,immunosuppressive therapy [2020 Q2],immunosuppressive therapy [2020 Q2],1,0.042362194,"[2021.0,2024.0)",NULL
+1121,14311,patient care [2020 Q2],patient care [2020 Q2],1,0.322723746,"[2021.0,2024.0)",NULL
+1122,14313,drug discovery [2020 Q2],drug discovery [2020 Q2],1,0.091852024,"[2021.0,2024.0)",NULL
+1123,14316,management strategies [2020 Q2],management strategies [2020 Q2],1,0.211000726,"[2021.0,2024.0)",NULL
+1124,14317,severe cases [2020 Q2],severe cases [2020 Q2],1,0.218954608,"[2021.0,2024.0)",NULL
+1125,14318,homelessness [2020 Q2],homelessness [2020 Q2],1,0.076696795,"[2021.0,2024.0)",NULL
+1126,14319,corticosteroids [2020 Q2],corticosteroids [2020 Q2],1,0.116040448,"[2021.0,2024.0)",NULL
+1127,14322,immunity [2020 Q2],immunity [2020 Q2],1,0.335681002,"[2021.0,2024.0)",NULL
+1128,14323,pathogenesis [2020 Q2],pathogenesis [2020 Q2],1,0.327426579,"[2021.0,2024.0)",NULL
+1129,14324,herd immunity [2020 Q2],herd immunity [2020 Q2],1,0.118644632,"[2021.0,2024.0)",NULL
+1130,14325,emergency management [2020 Q2],emergency management [2020 Q2],1,0.061711478,"[2021.0,2024.0)",NULL
+1131,14326,cancer [2020 Q2],cancer [2020 Q2],1,0.473697595,"[2021.0,2024.0)",NULL
+1132,14327,ST segment Elevation Myocardial Infarction [2020 Q2],ST segment Elevation Myocardial Infarction [2020 Q2],1,0.084036214,"[2021.0,2024.0)",NULL
+1133,14328,test sensitivity [2020 Q2],test sensitivity [2020 Q2],1,0.403777533,"[2021.0,2024.0)",NULL
+1134,14329,clinical outcomes [2020 Q2],clinical outcomes [2020 Q2],1,0.323884528,"[2021.0,2024.0)",NULL
+1135,14331,diagnostic tests [2020 Q2],diagnostic tests [2020 Q2],1,0.252670368,"[2021.0,2024.0)",NULL
+1136,14332,orthopaedic surgeons [2020 Q2],orthopaedic surgeons [2020 Q2],1,0.132572159,"[2021.0,2024.0)",NULL
+1137,14333,remdesivir [2020 Q2],remdesivir [2020 Q2],1,0.29876569,"[2021.0,2024.0)",NULL
+1138,14334,Immune System [2020 Q2],Immune System [2020 Q2],1,0.1654607,"[2021.0,2024.0)",NULL
+1139,14336,aerosol [2020 Q2],aerosol [2020 Q2],1,0.143085744,"[2021.0,2024.0)",NULL
+1140,14337,Parkinson disease [2020 Q2],Parkinson disease [2020 Q2],1,0.193360227,"[2021.0,2024.0)",NULL
+1141,14338,nursing education [2020 Q2],nursing education [2020 Q2],1,0.120194552,"[2021.0,2024.0)",NULL
+1142,14339,abortion [2020 Q2],abortion [2020 Q2],1,0.163304814,"[2021.0,2024.0)",NULL
+1143,14341,international collaboration [2020 Q2],international collaboration [2020 Q2],1,0.098760084,"[2021.0,2024.0)",NULL
+1144,14342,risk perception [2020 Q2],risk perception [2020 Q2],1,0.438248171,"[2021.0,2024.0)",NULL
+1145,14343,exercise training [2020 Q2],exercise training [2020 Q2],1,0.340412222,"[2021.0,2024.0)",NULL
+1146,14345,bladder cancer [2020 Q2],bladder cancer [2020 Q2],1,0.031322417,"[2021.0,2024.0)",NULL
+1147,14346,cardiovascular risk [2020 Q2],cardiovascular risk [2020 Q2],1,0.03065807,"[2021.0,2024.0)",NULL
+1148,14348,COVID 19 prevention [2020 Q2],COVID 19 prevention [2020 Q2],1,0.102685416,"[2021.0,2024.0)",NULL
+1149,14349,IgG [2020 Q2],IgG [2020 Q2],1,0.231461409,"[2021.0,2024.0)",NULL
+1150,14350,rheumatic diseases [2020 Q2],rheumatic diseases [2020 Q2],1,0.10370536,"[2021.0,2024.0)",NULL
+1151,14351,ACE2 [2020 Q2],ACE2 [2020 Q2],1,0.462828289,"[2021.0,2024.0)",NULL
+1152,14353,Kawasaki disease [2020 Q2],Kawasaki disease [2020 Q2],1,0.168873893,"[2021.0,2024.0)",NULL
+1153,14354,trauma [2020 Q2],trauma [2020 Q2],1,0.214635598,"[2021.0,2024.0)",NULL
+1154,14355,coronavirus infection [2020 Q2],coronavirus infection [2020 Q2],1,0.218654288,"[2021.0,2024.0)",NULL
+1155,14357,artificial intelligence [2020 Q2],artificial intelligence [2020 Q2],1,0.235121997,"[2021.0,2024.0)",NULL
+1156,14360,regional anesthesia [2020 Q2],regional anesthesia [2020 Q2],1,0.039194301,"[2021.0,2024.0)",NULL
+1157,14362,Guillain-Barre syndrome [2020 Q2],Guillain-Barre syndrome [2020 Q2],1,0.09280457,"[2021.0,2024.0)",NULL
+1158,14363,face masks [2020 Q2],face masks [2020 Q2],1,0.196864122,"[2021.0,2024.0)",NULL
+1159,14364,COPD [2020 Q2],COPD [2020 Q2],1,0.133463605,"[2021.0,2024.0)",NULL
+1160,14366,opioid use disorder [2020 Q2],opioid use disorder [2020 Q2],1,0.05438628,"[2021.0,2024.0)",NULL
+1161,14368,extubation [2020 Q2],extubation [2020 Q2],1,0.099453187,"[2021.0,2024.0)",NULL
+1162,14370,cerebral venous thrombosis [2020 Q2],cerebral venous thrombosis [2020 Q2],1,0.013578929,"[2021.0,2024.0)",NULL
+1163,14371,universal masking [2020 Q2],universal masking [2020 Q2],1,0.040984921,"[2021.0,2024.0)",NULL
+1164,14373,preventive measures [2020 Q1],preventive measures [2020 Q1],1,0.621290417,"[2020.0,2024.0)",NULL
+1165,14374,Social Sciences [2020 Q2],Social Sciences [2020 Q2],1,0.051033019,"[2021.0,2024.0)",NULL
+1166,14377,inequalities [2020 Q2],inequalities [2020 Q2],1,0.087033078,"[2021.0,2024.0)",NULL
+1167,14378,environmental issues [2020 Q2],environmental issues [2020 Q2],1,0.002104982,"[2021.0,2021.0)",NULL
+1168,14381,global mental health [2020 Q2],global mental health [2020 Q2],1,0.028137733,"[2021.0,2024.0)",NULL
+1169,14382,digital health [2020 Q2],digital health [2020 Q2],1,0.072337939,"[2021.0,2024.0)",NULL
+1170,14383,safe practice [2020 Q2],safe practice [2020 Q2],1,0.031773092,"[2021.0,2024.0)",NULL
+1171,14384,mask wearing [2020 Q2],mask wearing [2020 Q2],1,3.98E-04,"[2021.0,2021.0)",NULL
+1172,14385,ageusia [2020 Q2],ageusia [2020 Q2],1,0.150243715,"[2021.0,2024.0)",NULL
+1173,14386,dexamethasone [2020 Q3],dexamethasone [2020 Q3],1,0.100933207,"[2022.0,2024.0)",NULL
+1174,14387,perioperative Care [2020 Q3],perioperative Care [2020 Q3],1,0.132213926,"[2022.0,2024.0)",NULL
+1175,14388,acute kidney injury [2020 Q3],acute kidney injury [2020 Q3],1,0.140177233,"[2022.0,2024.0)",NULL
+1176,14389,nursing homes [2020 Q3],nursing homes [2020 Q3],1,0.13634758,"[2022.0,2024.0)",NULL
+1177,14390,planetary health [2020 Q3],planetary health [2020 Q3],1,0.103599673,"[2022.0,2024.0)",NULL
+1178,14391,nanomaterials [2020 Q3],high risk COVID 19 patients [2020 Q3],0,0.065923741,"[2022.0,2024.0)",NULL
+1179,14392,digital transformation [2020 Q3],digital transformation [2020 Q3],1,0.061532865,"[2022.0,2024.0)",NULL
+1180,14393,seroprevalence [2020 Q3],seroprevalence [2020 Q3],1,0.075506433,"[2022.0,2024.0)",NULL
+1181,14394,tertiary hospital [2020 Q3],agricultural production [2020 Q3],0,0.087646032,"[2022.0,2024.0)",NULL
+1182,14395,Child Health [2020 Q3],Child Health [2020 Q3],1,0.089475034,"[2022.0,2024.0)",NULL
+1183,14396,tourism industry [2020 Q3],tourism industry [2020 Q3],1,0.026451256,"[2022.0,2024.0)",NULL
+1184,14397,post COVID 19 [2020 Q3],post COVID 19 [2020 Q3],1,0.088113937,"[2022.0,2024.0)",NULL
+1185,14398,heart surgery [2020 Q3],heart surgery [2020 Q3],1,0.134749373,"[2022.0,2024.0)",NULL
+1186,14403,Radiology [2020 Q3],Radiology [2020 Q3],1,0.055014273,"[2022.0,2024.0)",NULL
+1187,14404,infection risk [2020 Q3],infection risk [2020 Q3],1,0.057434216,"[2022.0,2024.0)",NULL
+1188,14405,drug development [2020 Q3],information technology [2020 Q3],0,0.091250705,"[2022.0,2024.0)",NULL
+1189,14406,spontaneous pneumothorax [2020 Q3],spontaneous pneumothorax [2020 Q3],1,0.065352521,"[2022.0,2024.0)",NULL
+1190,14407,tocilizumab [2020 Q3],tocilizumab [2020 Q3],1,0.118517022,"[2022.0,2024.0)",NULL
+1191,14408,pulmonary fibrosis [2020 Q3],pulmonary fibrosis [2020 Q3],1,0.045723055,"[2022.0,2024.0)",NULL
+1192,14409,contamination [2020 Q3],contamination [2020 Q3],1,0.118971037,"[2022.0,2024.0)",NULL
+1193,14411,ECMO [2020 Q3],ECMO [2020 Q3],1,0.091461913,"[2022.0,2024.0)",NULL
+1194,14412,Endoscopy [2020 Q3],Endoscopy [2020 Q3],1,0.160103086,"[2022.0,2024.0)",NULL
+1195,14415,tourists [2020 Q3],tourists [2020 Q3],1,0.076381606,"[2022.0,2024.0)",NULL
+1196,14416,human activities [2020 Q3],human activities [2020 Q3],1,0.044159213,"[2022.0,2024.0)",NULL
+1197,14417,sports activities [2020 Q3],sports activities [2020 Q3],1,0.052520193,"[2022.0,2024.0)",NULL
+1198,14418,telepsychiatry [2020 Q3],telepsychiatry [2020 Q3],1,0.145747413,"[2022.0,2024.0)",NULL
+1199,14419,pandemic times [2020 Q3],pandemic times [2020 Q3],1,0.025808557,"[2022.0,2024.0)",NULL
+1200,14421,serological tests [2020 Q3],serological tests [2020 Q3],1,0.091158666,"[2022.0,2024.0)",NULL
+1201,14422,immunomodulators [2020 Q3],immunomodulators [2020 Q3],1,0.057922516,"[2022.0,2024.0)",NULL
+1202,14423,cohort study [2020 Q3],cohort study [2020 Q3],1,0.140834917,"[2022.0,2024.0)",NULL
+1203,14424,liver involvement [2020 Q3],liver involvement [2020 Q3],1,0.041703517,"[2022.0,2024.0)",NULL
+1204,14425,respirators [2020 Q3],respirators [2020 Q3],1,0.083185266,"[2022.0,2024.0)",NULL
+1205,14426,complications [2020 Q3],complications [2020 Q3],1,0.248002432,"[2022.0,2024.0)",NULL
+1206,14427,lopinavir [2020 Q3],lopinavir [2020 Q3],1,0.107958742,"[2022.0,2024.0)",NULL
+1207,14431,collateral damage [2020 Q3],collateral damage [2020 Q3],1,0.046052964,"[2022.0,2024.0)",NULL
+1208,14434,risk management [2020 Q3],risk management [2020 Q3],1,0.059856657,"[2022.0,2024.0)",NULL
+1209,14436,Takotsubo cardiomyopathy [2020 Q3],Takotsubo cardiomyopathy [2020 Q3],1,0.070931346,"[2022.0,2024.0)",NULL
+1210,14437,adult patients [2020 Q3],adult patients [2020 Q3],1,0.078226768,"[2022.0,2024.0)",NULL
+1211,14438,adolescents [2020 Q3],adolescents [2020 Q3],1,0.217773496,"[2022.0,2024.0)",NULL
+1212,14440,Emotional impact [2020 Q3],Emotional impact [2020 Q3],1,0.039835249,"[2022.0,2024.0)",NULL
+1213,14443,obsessive compulsive disorder [2020 Q3],obsessive compulsive disorder [2020 Q3],1,0.029507277,"[2022.0,2024.0)",NULL
+1214,14444,food supplies [2020 Q3],food supplies [2020 Q3],1,0.03564275,"[2022.0,2024.0)",NULL
+1215,14445,systemic racism [2020 Q3],systemic racism [2020 Q3],1,0.014437235,"[2022.0,2024.0)",NULL
+1216,14446,population health [2020 Q3],population health [2020 Q3],1,0.079511785,"[2022.0,2024.0)",NULL
+1217,14447,animal welfare [2020 Q3],animal welfare [2020 Q3],1,0.113077263,"[2022.0,2024.0)",NULL
+1218,14448,acute ischemic stroke [2020 Q3],acute ischemic stroke [2020 Q3],1,0.069925598,"[2022.0,2024.0)",NULL
+1219,14449,ruxolitinib [2020 Q3],ruxolitinib [2020 Q3],1,0.07660352,"[2022.0,2024.0)",NULL
+1220,14453,fatal cases [2020 Q3],fatal cases [2020 Q3],1,0.04017574,"[2022.0,2024.0)",NULL
+1221,14454,school closures [2020 Q3],school closures [2020 Q3],1,0.078319385,"[2022.0,2024.0)",NULL
+1222,14455,pulmonary rehabilitation [2020 Q3],pulmonary rehabilitation [2020 Q3],1,0.019509274,"[2022.0,2024.0)",NULL
+1223,14456,mental health needs [2020 Q3],mental health needs [2020 Q3],1,0.024502956,"[2022.0,2024.0)",NULL
+1224,14457,laparoscopic surgery [2020 Q3],laparoscopic surgery [2020 Q3],1,0.015103446,"[2022.0,2024.0)",NULL
+1225,14458,saliva samples [2020 Q3],saliva samples [2020 Q3],1,0.052654063,"[2022.0,2024.0)",NULL
+1226,14459,hyperinflammation [2020 Q3],hyperinflammation [2020 Q3],1,0.056379766,"[2022.0,2024.0)",NULL
+1227,14460,telerehabilitation [2020 Q3],telerehabilitation [2020 Q3],1,0.04307623,"[2022.0,2024.0)",NULL
+1228,14463,work life balance [2020 Q3],work life balance [2020 Q3],1,0.030366713,"[2022.0,2024.0)",NULL
+1229,14464,virtual interviews [2020 Q3],virtual interviews [2020 Q3],1,0.001716552,"[2022.0,2022.0)",NULL
+1230,14465,Psychiatric Hospitals [2020 Q3],Psychiatric Hospitals [2020 Q3],1,0.029080457,"[2022.0,2024.0)",NULL
+1231,14466,myasthenia Gravis [2020 Q3],myasthenia Gravis [2020 Q3],1,0.017458356,"[2022.0,2024.0)",NULL
+1232,14467,ivermectin [2020 Q3],ivermectin [2020 Q3],1,0.047018399,"[2022.0,2024.0)",NULL
+1233,14468,invasive surgery [2020 Q3],invasive surgery [2020 Q3],1,0.016233208,"[2022.0,2024.0)",NULL
+1234,14472,indoor environments [2020 Q4],indoor environments [2020 Q4],1,0.020205194,"[2023.0,2024.0)",NULL
+1235,14473,qualitative study [2020 Q4],qualitative study [2020 Q4],1,0.091235271,"[2023.0,2024.0)",NULL
+1236,14474,localization [2020 Q4],localization [2020 Q4],1,0.055702733,"[2023.0,2024.0)",NULL
+1237,14475,manufacturing [2020 Q4],manufacturing [2020 Q4],1,0.076981371,"[2023.0,2024.0)",NULL
+1238,14476,secondary outcomes [2020 Q4],secondary outcomes [2020 Q4],1,0.103327282,"[2023.0,2024.0)",NULL
+1239,14477,psychometric properties [2020 Q4],psychometric properties [2020 Q4],1,0.04829723,"[2023.0,2024.0)",NULL
+1240,14479,convalescent plasma transfusion [2020 Q4],convalescent plasma transfusion [2020 Q4],1,0.043668086,"[2023.0,2024.0)",NULL
+1241,14480,teledermatology [2020 Q4],teledermatology [2020 Q4],1,0.050724342,"[2023.0,2024.0)",NULL
+1242,14487,policy implications [2020 Q4],policy implications [2020 Q4],1,0.048625446,"[2023.0,2024.0)",NULL
+1243,14488,relative humidity [2020 Q4],relative humidity [2020 Q4],1,0.049417734,"[2023.0,2024.0)",NULL
+1244,14491,glucocorticoids [2020 Q4],glucocorticoids [2020 Q4],1,0.054597339,"[2023.0,2024.0)",NULL
+1245,14493,pulse Oximetry [2020 Q4],pulse Oximetry [2020 Q4],1,0.05485869,"[2023.0,2024.0)",NULL
+1246,14494,retrospective observational study [2020 Q4],retrospective observational study [2020 Q4],1,0.046291577,"[2023.0,2024.0)",NULL
+1247,14495,human volunteers [2020 Q4],human volunteers [2020 Q4],1,0.069993924,"[2023.0,2024.0)",NULL
+1248,14496,female gender [2020 Q4],female gender [2020 Q4],1,0.034997856,"[2023.0,2024.0)",NULL
+1249,14497,protective measures [2020 Q4],protective measures [2020 Q4],1,0.051548753,"[2023.0,2024.0)",NULL
+1250,14498,sequela [2020 Q4],sequela [2020 Q4],1,0.046729146,"[2023.0,2024.0)",NULL
+1251,14499,misinformation [2020 Q4],misinformation [2020 Q4],1,0.069459251,"[2023.0,2024.0)",NULL
+1252,14500,autoantibodies [2020 Q4],autoantibodies [2020 Q4],1,0.058327714,"[2023.0,2024.0)",NULL
+1253,14501,transparency [2020 Q4],transparency [2020 Q4],1,0.068361466,"[2023.0,2024.0)",NULL
+1254,14502,clinical examination [2020 Q4],clinical examination [2020 Q4],1,0.042734772,"[2023.0,2024.0)",NULL
+1255,14503,thematic analysis [2020 Q4],thematic analysis [2020 Q4],1,0.066404893,"[2023.0,2024.0)",NULL
+1256,14505,atrial fibrillation [2020 Q4],atrial fibrillation [2020 Q4],1,0.048615319,"[2023.0,2024.0)",NULL
+1257,14506,microorganisms [2020 Q4],microorganisms [2020 Q4],1,0.03266045,"[2023.0,2024.0)",NULL
+1258,14507,N protein [2020 Q4],N protein [2020 Q4],1,0.065020731,"[2023.0,2024.0)",NULL
+1259,14508,oral manifestations [2020 Q4],surveillance data [2020 Q4],0,0.031168058,"[2023.0,2024.0)",NULL
+1260,14510,diagnostic tools [2020 Q4],diagnostic tools [2020 Q4],1,0.011461492,"[2023.0,2024.0)",NULL
+1261,14511,medical education [2020 Q4],medical education [2020 Q4],1,0.050059503,"[2023.0,2024.0)",NULL
+1262,14512,Longitudinal Study [2020 Q4],Longitudinal Study [2020 Q4],1,0.052884453,"[2023.0,2024.0)",NULL
+1263,14513,asymptomatic infection [2020 Q4],asymptomatic infection [2020 Q4],1,0.043857607,"[2023.0,2024.0)",NULL
+1264,14514,audio Interview [2020 Q4],audio Interview [2020 Q4],1,9.33E-04,"[2023.0,2024.0)",NULL
+1265,14516,high sensitivity [2020 Q4],high sensitivity [2020 Q4],1,0.032851889,"[2023.0,2024.0)",NULL
+1266,14518,viral load [2020 Q4],viral load [2020 Q4],1,0.042555192,"[2023.0,2024.0)",NULL
+1267,14521,cost effective [2020 Q4],cost effective [2020 Q4],1,0.060896185,"[2023.0,2024.0)",NULL
+1268,14524,online environment [2020 Q4],online environment [2020 Q4],1,0.024425493,"[2023.0,2024.0)",NULL
+1269,14528,Ophthalmology [2020 Q4],Ophthalmology [2020 Q4],1,0.019390839,"[2023.0,2024.0)",NULL
+1270,14530,pancytopenia [2020 Q4],pancytopenia [2020 Q4],1,0.007417655,"[2023.0,2024.0)",NULL
+1271,14531,Indian states [2020 Q4],Indian states [2020 Q4],1,0.00799878,"[2023.0,2024.0)",NULL
+1272,14532,colchicine [2020 Q4],colchicine [2020 Q4],1,0.011556255,"[2023.0,2024.0)",NULL
+1273,14535,percutaneous tracheostomy [2020 Q4],percutaneous tracheostomy [2020 Q4],1,0.011198292,"[2023.0,2024.0)",NULL
+1274,14540,cardiac complications [2020 Q4],cardiac complications [2020 Q4],1,0.00876632,"[2023.0,2024.0)",NULL
+1275,14542,environmental surfaces [2020 Q4],environmental surfaces [2020 Q4],1,0.015934619,"[2023.0,2024.0)",NULL
+1276,14545,empirical results [2021],empirical results [2021],1,0.046222841,"[2024.0,2024.0)",NULL
+1277,14549,digital platforms [2021],laws [2021],0,0.028745918,"[2024.0,2024.0)",NULL
